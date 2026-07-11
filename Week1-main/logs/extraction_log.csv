@@ -1,0 +1,9 @@
+﻿timestamp,company_name,md_file,output_json,status,event_count,encoding,notes,error
+2026-06-05 23:39:34,芜湖三联锻造股份有限公司,C:\Users\lenovo\Desktop\project\markdown_files\芜湖三联锻造股份有限公司.md,C:\Users\lenovo\Desktop\project\output\json_samples\芜湖三联锻造股份有限公司.json,success,192,utf-8-sig,提取到 192 条候选融资事件，需人工复核,
+2026-06-05 23:39:34,上海友升铝业股份有限公司,C:\Users\lenovo\Desktop\project\markdown_files\上海友升铝业股份有限公司.md,C:\Users\lenovo\Desktop\project\output\json_samples\上海友升铝业股份有限公司.json,success,213,utf-8-sig,提取到 213 条候选融资事件，需人工复核,
+2026-06-05 23:39:34,黄山谷捷股份有限公司,C:\Users\lenovo\Desktop\project\markdown_files\黄山谷捷股份有限公司.md,C:\Users\lenovo\Desktop\project\output\json_samples\黄山谷捷股份有限公司.json,success,154,utf-8-sig,提取到 154 条候选融资事件，需人工复核,
+2026-06-05 23:39:34,云汉芯城（上海）互联网科技股份有限公司,C:\Users\lenovo\Desktop\project\markdown_files\云汉芯城（上海）互联网科技股份有限公司.md,C:\Users\lenovo\Desktop\project\output\json_samples\云汉芯城（上海）互联网科技股份有限公司.json,success,172,utf-8-sig,提取到 172 条候选融资事件，需人工复核,
+2026-06-05 23:39:34,苏州赛分科技股份有限公司,C:\Users\lenovo\Desktop\project\markdown_files\苏州赛分科技股份有限公司.md,C:\Users\lenovo\Desktop\project\output\json_samples\苏州赛分科技股份有限公司.json,success,219,utf-8-sig,提取到 219 条候选融资事件，需人工复核,
+2026-06-05 23:39:34,影石创新科技股份有限公司,C:\Users\lenovo\Desktop\project\markdown_files\影石创新科技股份有限公司.md,C:\Users\lenovo\Desktop\project\output\json_samples\影石创新科技股份有限公司.json,success,204,utf-8-sig,提取到 204 条候选融资事件，需人工复核,
+2026-06-05 23:39:34,常州三协电机股份有限公司,C:\Users\lenovo\Desktop\project\markdown_files\常州三协电机股份有限公司.md,C:\Users\lenovo\Desktop\project\output\json_samples\常州三协电机股份有限公司.json,success,194,utf-8-sig,提取到 194 条候选融资事件，需人工复核,
+2026-06-05 23:39:34,中科星图测控技术股份有限公司,C:\Users\lenovo\Desktop\project\markdown_files\中科星图测控技术股份有限公司.md,C:\Users\lenovo\Desktop\project\output\json_samples\中科星图测控技术股份有限公司.json,success,145,utf-8-sig,提取到 145 条候选融资事件，需人工复核,

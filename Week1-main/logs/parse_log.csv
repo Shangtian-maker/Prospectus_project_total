@@ -1,0 +1,9 @@
+序号,文件名,解析模式,状态,开始时间,结束时间,耗时秒,输出目录,Markdown文件数,错误信息
+1,三协电机_招股说明书_2026.pdf,txt_non_ocr,成功,2026/6/5 10:03,2026/6/5 10:15,723.77,C:\Users\lenovo\Desktop\prospectus_parse_project\output_md\三协电机_招股说明书_2026,1,
+2,云汉芯城_招股说明书_2026.pdf,txt_non_ocr,成功,2026/6/5 10:15,2026/6/5 10:30,894.54,C:\Users\lenovo\Desktop\prospectus_parse_project\output_md\云汉芯城_招股说明书_2026,1,
+3,友升股份_招股说明书_2026.pdf,txt_non_ocr,成功,2026/6/5 10:30,2026/6/5 10:43,787.42,C:\Users\lenovo\Desktop\prospectus_parse_project\output_md\友升股份_招股说明书_2026,1,
+4,星图测控_招股说明书_2026.pdf,txt_non_ocr,成功,2026/6/5 10:43,2026/6/5 10:56,759.67,C:\Users\lenovo\Desktop\prospectus_parse_project\output_md\星图测控_招股说明书_2026,1,
+5,三联锻造_招股说明书_2026.pdf,txt_non_ocr,成功,2026/6/5 10:56,2026/6/5 11:14,1103.33,C:\Users\lenovo\Desktop\prospectus_parse_project\output_md\三联锻造_招股说明书_2026,1,
+6,影石创新_招股说明书_2026.pdf,txt_non_ocr,成功,2026/6/5 11:14,2026/6/5 11:32,1066.6,C:\Users\lenovo\Desktop\prospectus_parse_project\output_md\影石创新_招股说明书_2026,1,
+7,赛分科技_招股说明书_2026.pdf,txt_non_ocr,成功,2026/6/5 11:32,2026/6/5 11:48,970.57,C:\Users\lenovo\Desktop\prospectus_parse_project\output_md\赛分科技_招股说明书_2026,1,
+8,黄山谷捷_招股说明书_2026.pdf,txt_non_ocr,成功,2026/6/5 11:48,2026/6/5 12:01,739.76,C:\Users\lenovo\Desktop\prospectus_parse_project\output_md\黄山谷捷_招股说明书_2026,1,
