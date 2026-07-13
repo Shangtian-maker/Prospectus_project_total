@@ -1,0 +1,59 @@
+{
+  "content_list_path": "C:\\Users\\lenovo\\Desktop\\Week4\\mineru_output\\001282_三联锻造_IPO招股说明书\\001282_三联锻造_IPO招股说明书_content_list.json",
+  "total_pdf_pages_detected": 476,
+  "toc_end_page_estimated": 4,
+  "section_count": 3,
+  "sections": [
+    {
+      "section_group": "股本演变主章节",
+      "priority": 1,
+      "matched_title": "二、发行人设立及报告期内股本演变情况",
+      "matched_alias": "发行人设立及报告期内股本演变情况",
+      "heading_level": 2,
+      "match_score": 0.93,
+      "final_score": 120.0,
+      "start_order": 220,
+      "end_order": 331,
+      "page_idx_start": 29,
+      "page_idx_end": 41,
+      "pdf_page_start": 30,
+      "pdf_page_end": 42,
+      "next_heading": "三、发行人的股权结构",
+      "next_heading_pdf_page": 43
+    },
+    {
+      "section_group": "股权结构辅助章节",
+      "priority": 2,
+      "matched_title": "三、发行人的股权结构",
+      "matched_alias": "发行人的股权结构",
+      "heading_level": 2,
+      "match_score": 0.93,
+      "final_score": 120.0,
+      "start_order": 332,
+      "end_order": 334,
+      "page_idx_start": 42,
+      "page_idx_end": 42,
+      "pdf_page_start": 43,
+      "pdf_page_end": 43,
+      "next_heading": "四、发行人控股子公司、分公司及参股公司情况",
+      "next_heading_pdf_page": 43
+    },
+    {
+      "section_group": "发行人股本辅助章节",
+      "priority": 3,
+      "matched_title": "（一）本次发行前后股本情况",
+      "matched_alias": "股本情况",
+      "heading_level": 3,
+      "match_score": 0.93,
+      "final_score": 120.0,
+      "start_order": 430,
+      "end_order": 432,
+      "page_idx_start": 52,
+      "page_idx_end": 52,
+      "pdf_page_start": 53,
+      "pdf_page_end": 53,
+      "next_heading": "（二）前十名股东",
+      "next_heading_pdf_page": 53
+    }
+  ]
+}

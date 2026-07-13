@@ -1,0 +1,78 @@
+{
+  "source_pdf": "C:\\Users\\lenovo\\Desktop\\Week4\\input\\001282_三联锻造_IPO招股说明书.pdf",
+  "target_pdf": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\三联锻造_目标章节.pdf",
+  "section_group": "股本演变主章节",
+  "section_title": "二、发行人设立及报告期内股本演变情况",
+  "located_original_pdf_range": {
+    "start": 30,
+    "end": 42
+  },
+  "buffer_pages": 1,
+  "actual_cut_original_pdf_range": {
+    "start": 29,
+    "end": 43
+  },
+  "target_pdf_page_count": 15,
+  "page_mapping": [
+    {
+      "target_pdf_page": 1,
+      "original_pdf_page": 29
+    },
+    {
+      "target_pdf_page": 2,
+      "original_pdf_page": 30
+    },
+    {
+      "target_pdf_page": 3,
+      "original_pdf_page": 31
+    },
+    {
+      "target_pdf_page": 4,
+      "original_pdf_page": 32
+    },
+    {
+      "target_pdf_page": 5,
+      "original_pdf_page": 33
+    },
+    {
+      "target_pdf_page": 6,
+      "original_pdf_page": 34
+    },
+    {
+      "target_pdf_page": 7,
+      "original_pdf_page": 35
+    },
+    {
+      "target_pdf_page": 8,
+      "original_pdf_page": 36
+    },
+    {
+      "target_pdf_page": 9,
+      "original_pdf_page": 37
+    },
+    {
+      "target_pdf_page": 10,
+      "original_pdf_page": 38
+    },
+    {
+      "target_pdf_page": 11,
+      "original_pdf_page": 39
+    },
+    {
+      "target_pdf_page": 12,
+      "original_pdf_page": 40
+    },
+    {
+      "target_pdf_page": 13,
+      "original_pdf_page": 41
+    },
+    {
+      "target_pdf_page": 14,
+      "original_pdf_page": 42
+    },
+    {
+      "target_pdf_page": 15,
+      "original_pdf_page": 43
+    }
+  ]
+}
