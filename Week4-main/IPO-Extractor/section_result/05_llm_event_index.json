@@ -1,0 +1,1718 @@
+[
+  {
+    "event_id": "E001",
+    "event_type": "有限公司设立出资",
+    "event_title": "有限公司设立出资—孙国奉",
+    "event_date": "2004-06-18",
+    "target_pdf_pages": [
+      2,
+      3
+    ],
+    "original_pdf_pages": [
+      29,
+      30
+    ],
+    "subsection_title": "（一）有限公司设立情况",
+    "participants": [
+      "孙国奉",
+      "三联有限"
+    ],
+    "evidence_start": "孙国奉以机器设备出资175万元，占注册资本35%",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E002",
+    "event_type": "有限公司设立出资",
+    "event_title": "有限公司设立出资—孙国敏",
+    "event_date": "2004-06-18",
+    "target_pdf_pages": [
+      2,
+      3
+    ],
+    "original_pdf_pages": [
+      29,
+      30
+    ],
+    "subsection_title": "（一）有限公司设立情况",
+    "participants": [
+      "孙国敏",
+      "三联有限"
+    ],
+    "evidence_start": "孙国敏以货币和机器设备出资162.5万元，占注册资本32.5%",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E003",
+    "event_type": "有限公司设立出资",
+    "event_title": "有限公司设立出资—张松满",
+    "event_date": "2004-06-18",
+    "target_pdf_pages": [
+      2,
+      3
+    ],
+    "original_pdf_pages": [
+      29,
+      30
+    ],
+    "subsection_title": "（一）有限公司设立情况",
+    "participants": [
+      "张松满",
+      "三联有限"
+    ],
+    "evidence_start": "张松满以货币和机器设备出资162.5万元，占注册资本32.5%",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E004",
+    "event_type": "增资",
+    "event_title": "三联有限第一次增资—温州三联认购",
+    "event_date": "2007-12",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "温州三联",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限增资1,500万元，其中由温州三联出资620万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E005",
+    "event_type": "增资",
+    "event_title": "三联有限第一次增资—张爱连认购",
+    "event_date": "2007-12",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "张爱连",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限增资1,500万元，其中由张爱连出资400万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E006",
+    "event_type": "增资",
+    "event_title": "三联有限第一次增资—孙娟丽认购",
+    "event_date": "2007-12",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "孙娟丽",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限增资1,500万元，其中由孙娟丽出资380万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E007",
+    "event_type": "增资",
+    "event_title": "三联有限第一次增资—孙国奉认购",
+    "event_date": "2007-12",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "孙国奉",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限增资1,500万元，其中由孙国奉出资100万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E008",
+    "event_type": "股权转让",
+    "event_title": "三联有限第一次股权转让—温州三联向孙国奉转让",
+    "event_date": "2008-01",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "温州三联",
+      "孙国奉",
+      "三联有限"
+    ],
+    "evidence_start": "温州三联将出资额395万元转让予孙国奉",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E009",
+    "event_type": "股权转让",
+    "event_title": "三联有限第一次股权转让—温州三联向孙国敏转让",
+    "event_date": "2008-01",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "温州三联",
+      "孙国敏",
+      "三联有限"
+    ],
+    "evidence_start": "温州三联将出资额97.5万元转让予孙国敏",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E010",
+    "event_type": "股权转让",
+    "event_title": "三联有限第一次股权转让—温州三联向张松满转让",
+    "event_date": "2008-01",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "温州三联",
+      "张松满",
+      "三联有限"
+    ],
+    "evidence_start": "温州三联将出资额127.5万元转让予张松满",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E011",
+    "event_type": "股权转让",
+    "event_title": "三联有限第一次股权转让—孙娟丽向张松满转让",
+    "event_date": "2008-01",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "孙娟丽",
+      "张松满",
+      "三联有限"
+    ],
+    "evidence_start": "孙娟丽将出资额380万元转让予张松满",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E012",
+    "event_type": "股权转让",
+    "event_title": "三联有限第一次股权转让—张爱连向孙国敏转让",
+    "event_date": "2008-01",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "张爱连",
+      "孙国敏",
+      "三联有限"
+    ],
+    "evidence_start": "张爱连将出资额400万元转让予孙国敏",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E013",
+    "event_type": "股权转让",
+    "event_title": "三联有限第二次股权转让—孙国敏向孙国奉转让",
+    "event_date": "2014-03",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "孙国敏",
+      "孙国奉",
+      "三联有限"
+    ],
+    "evidence_start": "孙国敏将出资额660万元转让予孙国奉",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E014",
+    "event_type": "增资",
+    "event_title": "三联有限第二次增资—孙国奉认购",
+    "event_date": "2014-05",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "孙国奉",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限增资3,000万元，其中由孙国奉出资1,995万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E015",
+    "event_type": "增资",
+    "event_title": "三联有限第二次增资—张松满认购",
+    "event_date": "2014-05",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "张松满",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限增资3,000万元，其中由张松满出资1,005万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E016",
+    "event_type": "增资",
+    "event_title": "三联有限第三次增资—高新同华认购",
+    "event_date": "2017-02",
+    "target_pdf_pages": [
+      6
+    ],
+    "original_pdf_pages": [
+      33
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "高新同华",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限增资1,150万元，由高新同华出资1,150万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E017",
+    "event_type": "未分配利润转增注册资本",
+    "event_title": "三联有限第四次增资—未分配利润向孙国奉定向转增",
+    "event_date": "2017-11",
+    "target_pdf_pages": [
+      7
+    ],
+    "original_pdf_pages": [
+      34
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "孙国奉",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限将未分配利润2,000万元向孙国奉、张松满定向转增注册资本，其中孙国奉定向转增1,330万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E018",
+    "event_type": "未分配利润转增注册资本",
+    "event_title": "三联有限第四次增资—未分配利润向张松满定向转增",
+    "event_date": "2017-11",
+    "target_pdf_pages": [
+      7
+    ],
+    "original_pdf_pages": [
+      34
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "张松满",
+      "三联有限"
+    ],
+    "evidence_start": "三联有限将未分配利润2,000万元向孙国奉、张松满定向转增注册资本，其中张松满定向转增670万元",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E019",
+    "event_type": "股权转让",
+    "event_title": "三联有限第三次股权转让—孙国奉向孙仁豪转让",
+    "event_date": "2018-02",
+    "target_pdf_pages": [
+      7
+    ],
+    "original_pdf_pages": [
+      34
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "孙国奉",
+      "孙仁豪",
+      "三联有限"
+    ],
+    "evidence_start": "孙国奉将出资额163万元转让予孙仁豪",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E020",
+    "event_type": "股权转让",
+    "event_title": "三联有限第三次股权转让—张松满向张一衡转让",
+    "event_date": "2018-02",
+    "target_pdf_pages": [
+      7
+    ],
+    "original_pdf_pages": [
+      34
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "张松满",
+      "张一衡",
+      "三联有限"
+    ],
+    "evidence_start": "张松满将出资额2,345万元转让予张一衡",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E021",
+    "event_type": "股权转让",
+    "event_title": "三联有限第四次股权转让—孙国奉向孙国敏转让",
+    "event_date": "2018-07",
+    "target_pdf_pages": [
+      7
+    ],
+    "original_pdf_pages": [
+      34
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "孙国奉",
+      "孙国敏",
+      "三联有限"
+    ],
+    "evidence_start": "孙国奉将出资额2,205万元转让予孙国敏",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E022",
+    "event_type": "股权转让",
+    "event_title": "三联有限第四次股权转让—张一衡向孙国敏转让",
+    "event_date": "2018-07",
+    "target_pdf_pages": [
+      7
+    ],
+    "original_pdf_pages": [
+      34
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+    "participants": [
+      "张一衡",
+      "孙国敏",
+      "三联有限"
+    ],
+    "evidence_start": "张一衡将出资额70万元转让予孙国敏",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": true,
+    "review_reason": "目标章节仅在股本演变概图中披露至月份，未披露具体日期及对应工商变更日；需结合申报文件“4-3”进一步核验。"
+  },
+  {
+    "event_id": "E023",
+    "event_type": "整体变更为股份有限公司",
+    "event_title": "整体变更发起人折股—孙国奉",
+    "event_date": "2018-11-26",
+    "target_pdf_pages": [
+      4,
+      5,
+      7
+    ],
+    "original_pdf_pages": [
+      31,
+      32,
+      34
+    ],
+    "subsection_title": "（二）股份公司设立情况",
+    "participants": [
+      "孙国奉",
+      "芜湖三联锻造股份有限公司"
+    ],
+    "evidence_start": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；孙国奉 28.06%",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E024",
+    "event_type": "整体变更为股份有限公司",
+    "event_title": "整体变更发起人折股—张一衡",
+    "event_date": "2018-11-26",
+    "target_pdf_pages": [
+      4,
+      5,
+      7
+    ],
+    "original_pdf_pages": [
+      31,
+      32,
+      34
+    ],
+    "subsection_title": "（二）股份公司设立情况",
+    "participants": [
+      "张一衡",
+      "芜湖三联锻造股份有限公司"
+    ],
+    "evidence_start": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；张一衡 27.91%",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E025",
+    "event_type": "整体变更为股份有限公司",
+    "event_title": "整体变更发起人折股—孙国敏",
+    "event_date": "2018-11-26",
+    "target_pdf_pages": [
+      4,
+      5,
+      7
+    ],
+    "original_pdf_pages": [
+      31,
+      32,
+      34
+    ],
+    "subsection_title": "（二）股份公司设立情况",
+    "participants": [
+      "孙国敏",
+      "芜湖三联锻造股份有限公司"
+    ],
+    "evidence_start": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；孙国敏 27.91%",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E026",
+    "event_type": "整体变更为股份有限公司",
+    "event_title": "整体变更发起人折股—高新同华",
+    "event_date": "2018-11-26",
+    "target_pdf_pages": [
+      4,
+      5,
+      7
+    ],
+    "original_pdf_pages": [
+      31,
+      32,
+      34
+    ],
+    "subsection_title": "（二）股份公司设立情况",
+    "participants": [
+      "高新同华",
+      "芜湖三联锻造股份有限公司"
+    ],
+    "evidence_start": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；高新同华 14.11%",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E027",
+    "event_type": "整体变更为股份有限公司",
+    "event_title": "整体变更发起人折股—孙仁豪",
+    "event_date": "2018-11-26",
+    "target_pdf_pages": [
+      4,
+      5,
+      7
+    ],
+    "original_pdf_pages": [
+      31,
+      32,
+      34
+    ],
+    "subsection_title": "（二）股份公司设立情况",
+    "participants": [
+      "孙仁豪",
+      "芜湖三联锻造股份有限公司"
+    ],
+    "evidence_start": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；孙仁豪 2.00%",
+    "contains_table": false,
+    "contains_image": true,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E028",
+    "event_type": "增资（员工持股平台入股）",
+    "event_title": "股份有限公司第一次增资—三联合伙认购348万股",
+    "event_date": "2019-12-04",
+    "target_pdf_pages": [
+      8,
+      10
+    ],
+    "original_pdf_pages": [
+      35,
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））",
+      "三联锻造"
+    ],
+    "evidence_start": "新增注册资本由新股东三联合伙以每股4.50元的价格认购，其中348万元计入注册资本",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E029",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—孙国奉",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "孙国奉",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "孙国奉 普通合伙人 认缴出资额382.50万元 出资比例24.43% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E030",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—韩良",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "韩良",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "韩良 有限合伙人 认缴出资额360.00万元 出资比例22.99% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E031",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—孟江峰",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "孟江峰",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "孟江峰 有限合伙人 认缴出资额135.00万元 出资比例8.62% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E032",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—杨成",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "杨成",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "杨成 有限合伙人 认缴出资额54.00万元 出资比例3.45% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E033",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—谭辉",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "谭辉",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "谭辉 有限合伙人 认缴出资额45.00万元 出资比例2.87% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E034",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—刘云祥",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "刘云祥",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "刘云祥 有限合伙人 认缴出资额45.00万元 出资比例2.87% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E035",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—洪贤来",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "洪贤来",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "洪贤来 有限合伙人 认缴出资额45.00万元 出资比例2.87% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E036",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—王芳琴",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "王芳琴",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "王芳琴 有限合伙人 认缴出资额45.00万元 出资比例2.87% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E037",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—孙秀娟",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "孙秀娟",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "孙秀娟 有限合伙人 认缴出资额27.00万元 出资比例1.72% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E038",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—朱兵兵",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "朱兵兵",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "朱兵兵 有限合伙人 认缴出资额22.50万元 出资比例1.44% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E039",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—班文成",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "班文成",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "班文成 有限合伙人 认缴出资额22.50万元 出资比例1.44% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E040",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—王洪兵",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "王洪兵",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "王洪兵 有限合伙人 认缴出资额22.50万元 出资比例1.44% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E041",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—田金龙",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "田金龙",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "田金龙 有限合伙人 认缴出资额22.50万元 出资比例1.44% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E042",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—章仁先",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "章仁先",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "章仁先 有限合伙人 认缴出资额22.50万元 出资比例1.44% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E043",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—刘锐",
+    "event_date": null,
+    "target_pdf_pages": [
+      8
+    ],
+    "original_pdf_pages": [
+      35
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "刘锐",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "刘锐 有限合伙人 认缴出资额22.50万元 出资比例1.44% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E044",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—揭谦福",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "揭谦福",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "揭谦福 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E045",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—张猛",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "张猛",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "张猛 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E046",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—刘青",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "刘青",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "刘青 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E047",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—李联刚",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "李联刚",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "李联刚 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E048",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—叶永龙",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "叶永龙",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "叶永龙 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E049",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—钱慧",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "钱慧",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "钱慧 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E050",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—昝朋",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "昝朋",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "昝朋 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E051",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—张宏禹",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "张宏禹",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "张宏禹 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E052",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—陈林",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "陈林",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "陈林 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E053",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—徐林鸟",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "徐林鸟",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "徐林鸟 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E054",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—邓云辉",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "邓云辉",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "邓云辉 有限合伙人 认缴出资额13.50万元 出资比例0.86% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E055",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—秦勇",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "秦勇",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "秦勇 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E056",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—刘涛",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "刘涛",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "刘涛 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E057",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—毛水荣",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "毛水荣",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "毛水荣 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E058",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—孙文政",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "孙文政",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "孙文政 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E059",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—汪月朋",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "汪月朋",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "汪月朋 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E060",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—杨建伟",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "杨建伟",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "杨建伟 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E061",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—严琪",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "严琪",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "严琪 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E062",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—王浩",
+    "event_date": null,
+    "target_pdf_pages": [
+      9
+    ],
+    "original_pdf_pages": [
+      36
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "王浩",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "王浩 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E063",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—张星",
+    "event_date": null,
+    "target_pdf_pages": [
+      10
+    ],
+    "original_pdf_pages": [
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "张星",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "张星 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E064",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—董瑞丽",
+    "event_date": null,
+    "target_pdf_pages": [
+      10
+    ],
+    "original_pdf_pages": [
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "董瑞丽",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "董瑞丽 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E065",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—陈海燕",
+    "event_date": null,
+    "target_pdf_pages": [
+      10
+    ],
+    "original_pdf_pages": [
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "陈海燕",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "陈海燕 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E066",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—余小雷",
+    "event_date": null,
+    "target_pdf_pages": [
+      10
+    ],
+    "original_pdf_pages": [
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "余小雷",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "余小雷 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E067",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—刘细兰",
+    "event_date": null,
+    "target_pdf_pages": [
+      10
+    ],
+    "original_pdf_pages": [
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "刘细兰",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "刘细兰 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E068",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—黎孝林",
+    "event_date": null,
+    "target_pdf_pages": [
+      10
+    ],
+    "original_pdf_pages": [
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "黎孝林",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "黎孝林 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E069",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—张军照",
+    "event_date": null,
+    "target_pdf_pages": [
+      10
+    ],
+    "original_pdf_pages": [
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "张军照",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "张军照 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E070",
+    "event_type": "员工持股平台合伙份额认缴",
+    "event_title": "三联合伙合伙份额认缴—孙兴明",
+    "event_date": null,
+    "target_pdf_pages": [
+      10
+    ],
+    "original_pdf_pages": [
+      37
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+    "participants": [
+      "孙兴明",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "孙兴明 有限合伙人 认缴出资额9.00万元 出资比例0.57% 货币 2019.12.31之前",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": true,
+    "review_reason": "表格仅披露出资期限为2019.12.31之前，未披露该合伙人实际出资日期。"
+  },
+  {
+    "event_id": "E071",
+    "event_type": "员工持股平台合伙份额转让",
+    "event_title": "三联合伙合伙份额转让—黎孝林向陈杰转让",
+    "event_date": "2020-06-04",
+    "target_pdf_pages": [
+      12
+    ],
+    "original_pdf_pages": [
+      39
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+    "participants": [
+      "黎孝林",
+      "陈杰",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "2020.06.04 黎孝林 陈杰 9.00 2.00 0.57 9.00",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E072",
+    "event_type": "员工持股平台合伙份额转让",
+    "event_title": "三联合伙合伙份额转让—班文成向孙国奉转让",
+    "event_date": "2020-07-23",
+    "target_pdf_pages": [
+      12
+    ],
+    "original_pdf_pages": [
+      39
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+    "participants": [
+      "班文成",
+      "孙国奉",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "2020.07.23 班文成 孙国奉 4.50 1.00 0.29 4.50",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E073",
+    "event_type": "员工持股平台合伙份额转让",
+    "event_title": "三联合伙合伙份额转让—王洪兵向江民春转让",
+    "event_date": "2020-07-23",
+    "target_pdf_pages": [
+      12
+    ],
+    "original_pdf_pages": [
+      39
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+    "participants": [
+      "王洪兵",
+      "江民春",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "2020.07.23 王洪兵 江民春 9.00 2.00 0.57 9.00",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E074",
+    "event_type": "员工持股平台合伙份额转让",
+    "event_title": "三联合伙合伙份额转让—邓云辉向孙国奉转让",
+    "event_date": "2021-03-01",
+    "target_pdf_pages": [
+      12
+    ],
+    "original_pdf_pages": [
+      39
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+    "participants": [
+      "邓云辉",
+      "孙国奉",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "2021.03.01 邓云辉 孙国奉 13.50 3.00 0.86 14.10",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E075",
+    "event_type": "员工持股平台合伙份额转让",
+    "event_title": "三联合伙合伙份额转让—昝朋向孙国奉转让",
+    "event_date": "2021-06-30",
+    "target_pdf_pages": [
+      12
+    ],
+    "original_pdf_pages": [
+      39
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+    "participants": [
+      "昝朋",
+      "孙国奉",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "2021.06.30 昝朋 孙国奉 13.50 3.00 0.86 14.10",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  },
+  {
+    "event_id": "E076",
+    "event_type": "员工持股平台合伙份额转让",
+    "event_title": "三联合伙合伙份额转让—严琪向孙国奉转让",
+    "event_date": "2021-06-30",
+    "target_pdf_pages": [
+      12
+    ],
+    "original_pdf_pages": [
+      39
+    ],
+    "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+    "participants": [
+      "严琪",
+      "孙国奉",
+      "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+    ],
+    "evidence_start": "2021.06.30 严琪 孙国奉 9.00 2.00 0.57 9.40",
+    "contains_table": true,
+    "contains_image": false,
+    "needs_further_review": false,
+    "review_reason": null
+  }
+]
