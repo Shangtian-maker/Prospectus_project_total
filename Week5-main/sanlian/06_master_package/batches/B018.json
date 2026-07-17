@@ -1,0 +1,333 @@
+{
+  "document_id": "三联锻造",
+  "batch_id": "B018",
+  "event_count": 6,
+  "events": [
+    {
+      "candidate_id": "C071",
+      "event_id": "E071",
+      "event_type_hint": "员工持股平台合伙份额转让",
+      "event_title": "三联合伙合伙份额转让—黎孝林向陈杰转让",
+      "event_date_hint": "2020-06-04",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+      "core_original_pdf_pages": [
+        39
+      ],
+      "context_original_pdf_pages": [
+        38,
+        39,
+        40
+      ],
+      "participants_hint": [
+        "黎孝林",
+        "陈杰",
+        "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+      ],
+      "evidence_start_hint": "2020.06.04 黎孝林 陈杰 9.00 2.00 0.57 9.00",
+      "keyword_hits": {
+        "公司设立": [
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "受让"
+        ]
+      },
+      "contains_table_hint": true,
+      "contains_image_hint": false,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C071_E071_三联合伙合伙份额转让—黎孝林向陈杰转让\\assets\\6a89644955c3b099cf5994cc11fd492a62fa513e3fcf144c5c90ec939bd17536.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C071_E071_三联合伙合伙份额转让—黎孝林向陈杰转让\\assets\\d4990c50ea0ea7691188609c44aa22a441c967580476ff97a814140150b96a7c.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C071_E071_三联合伙合伙份额转让—黎孝林向陈杰转让\\assets\\5f6a9467be05e18dfdad156022f8eddf9538a0600f9d5a56c177b44d56435919.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C071_E071_三联合伙合伙份额转让—黎孝林向陈杰转让\\assets\\11a3bc2d1d86ce7f792b7f178eb45ac7a71f45309e74e000c7b24c725faebcf8.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C072",
+      "event_id": "E072",
+      "event_type_hint": "员工持股平台合伙份额转让",
+      "event_title": "三联合伙合伙份额转让—班文成向孙国奉转让",
+      "event_date_hint": "2020-07-23",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+      "core_original_pdf_pages": [
+        39
+      ],
+      "context_original_pdf_pages": [
+        38,
+        39,
+        40
+      ],
+      "participants_hint": [
+        "班文成",
+        "孙国奉",
+        "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+      ],
+      "evidence_start_hint": "2020.07.23 班文成 孙国奉 4.50 1.00 0.29 4.50",
+      "keyword_hits": {
+        "公司设立": [
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "受让"
+        ]
+      },
+      "contains_table_hint": true,
+      "contains_image_hint": false,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C072_E072_三联合伙合伙份额转让—班文成向孙国奉转让\\assets\\6a89644955c3b099cf5994cc11fd492a62fa513e3fcf144c5c90ec939bd17536.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C072_E072_三联合伙合伙份额转让—班文成向孙国奉转让\\assets\\d4990c50ea0ea7691188609c44aa22a441c967580476ff97a814140150b96a7c.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C072_E072_三联合伙合伙份额转让—班文成向孙国奉转让\\assets\\5f6a9467be05e18dfdad156022f8eddf9538a0600f9d5a56c177b44d56435919.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C072_E072_三联合伙合伙份额转让—班文成向孙国奉转让\\assets\\11a3bc2d1d86ce7f792b7f178eb45ac7a71f45309e74e000c7b24c725faebcf8.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C073",
+      "event_id": "E073",
+      "event_type_hint": "员工持股平台合伙份额转让",
+      "event_title": "三联合伙合伙份额转让—王洪兵向江民春转让",
+      "event_date_hint": "2020-07-23",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+      "core_original_pdf_pages": [
+        39
+      ],
+      "context_original_pdf_pages": [
+        38,
+        39,
+        40
+      ],
+      "participants_hint": [
+        "王洪兵",
+        "江民春",
+        "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+      ],
+      "evidence_start_hint": "2020.07.23 王洪兵 江民春 9.00 2.00 0.57 9.00",
+      "keyword_hits": {
+        "公司设立": [
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "受让"
+        ]
+      },
+      "contains_table_hint": true,
+      "contains_image_hint": false,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C073_E073_三联合伙合伙份额转让—王洪兵向江民春转让\\assets\\6a89644955c3b099cf5994cc11fd492a62fa513e3fcf144c5c90ec939bd17536.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C073_E073_三联合伙合伙份额转让—王洪兵向江民春转让\\assets\\d4990c50ea0ea7691188609c44aa22a441c967580476ff97a814140150b96a7c.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C073_E073_三联合伙合伙份额转让—王洪兵向江民春转让\\assets\\5f6a9467be05e18dfdad156022f8eddf9538a0600f9d5a56c177b44d56435919.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C073_E073_三联合伙合伙份额转让—王洪兵向江民春转让\\assets\\11a3bc2d1d86ce7f792b7f178eb45ac7a71f45309e74e000c7b24c725faebcf8.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C074",
+      "event_id": "E074",
+      "event_type_hint": "员工持股平台合伙份额转让",
+      "event_title": "三联合伙合伙份额转让—邓云辉向孙国奉转让",
+      "event_date_hint": "2021-03-01",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+      "core_original_pdf_pages": [
+        39
+      ],
+      "context_original_pdf_pages": [
+        38,
+        39,
+        40
+      ],
+      "participants_hint": [
+        "邓云辉",
+        "孙国奉",
+        "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+      ],
+      "evidence_start_hint": "2021.03.01 邓云辉 孙国奉 13.50 3.00 0.86 14.10",
+      "keyword_hits": {
+        "公司设立": [
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "受让"
+        ]
+      },
+      "contains_table_hint": true,
+      "contains_image_hint": false,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C074_E074_三联合伙合伙份额转让—邓云辉向孙国奉转让\\assets\\6a89644955c3b099cf5994cc11fd492a62fa513e3fcf144c5c90ec939bd17536.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C074_E074_三联合伙合伙份额转让—邓云辉向孙国奉转让\\assets\\d4990c50ea0ea7691188609c44aa22a441c967580476ff97a814140150b96a7c.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C074_E074_三联合伙合伙份额转让—邓云辉向孙国奉转让\\assets\\5f6a9467be05e18dfdad156022f8eddf9538a0600f9d5a56c177b44d56435919.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C074_E074_三联合伙合伙份额转让—邓云辉向孙国奉转让\\assets\\11a3bc2d1d86ce7f792b7f178eb45ac7a71f45309e74e000c7b24c725faebcf8.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C075",
+      "event_id": "E075",
+      "event_type_hint": "员工持股平台合伙份额转让",
+      "event_title": "三联合伙合伙份额转让—昝朋向孙国奉转让",
+      "event_date_hint": "2021-06-30",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+      "core_original_pdf_pages": [
+        39
+      ],
+      "context_original_pdf_pages": [
+        38,
+        39,
+        40
+      ],
+      "participants_hint": [
+        "昝朋",
+        "孙国奉",
+        "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+      ],
+      "evidence_start_hint": "2021.06.30 昝朋 孙国奉 13.50 3.00 0.86 14.10",
+      "keyword_hits": {
+        "公司设立": [
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "受让"
+        ]
+      },
+      "contains_table_hint": true,
+      "contains_image_hint": false,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C075_E075_三联合伙合伙份额转让—昝朋向孙国奉转让\\assets\\6a89644955c3b099cf5994cc11fd492a62fa513e3fcf144c5c90ec939bd17536.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C075_E075_三联合伙合伙份额转让—昝朋向孙国奉转让\\assets\\d4990c50ea0ea7691188609c44aa22a441c967580476ff97a814140150b96a7c.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C075_E075_三联合伙合伙份额转让—昝朋向孙国奉转让\\assets\\5f6a9467be05e18dfdad156022f8eddf9538a0600f9d5a56c177b44d56435919.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C075_E075_三联合伙合伙份额转让—昝朋向孙国奉转让\\assets\\11a3bc2d1d86ce7f792b7f178eb45ac7a71f45309e74e000c7b24c725faebcf8.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C076",
+      "event_id": "E076",
+      "event_type_hint": "员工持股平台合伙份额转让",
+      "event_title": "三联合伙合伙份额转让—严琪向孙国奉转让",
+      "event_date_hint": "2021-06-30",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（2）股份支付情况",
+      "core_original_pdf_pages": [
+        39
+      ],
+      "context_original_pdf_pages": [
+        38,
+        39,
+        40
+      ],
+      "participants_hint": [
+        "严琪",
+        "孙国奉",
+        "三联合伙（芜湖三联控股合伙企业（有限合伙））"
+      ],
+      "evidence_start_hint": "2021.06.30 严琪 孙国奉 9.00 2.00 0.57 9.40",
+      "keyword_hits": {
+        "公司设立": [
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "受让"
+        ]
+      },
+      "contains_table_hint": true,
+      "contains_image_hint": false,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C076_E076_三联合伙合伙份额转让—严琪向孙国奉转让\\assets\\6a89644955c3b099cf5994cc11fd492a62fa513e3fcf144c5c90ec939bd17536.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C076_E076_三联合伙合伙份额转让—严琪向孙国奉转让\\assets\\d4990c50ea0ea7691188609c44aa22a441c967580476ff97a814140150b96a7c.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C076_E076_三联合伙合伙份额转让—严琪向孙国奉转让\\assets\\5f6a9467be05e18dfdad156022f8eddf9538a0600f9d5a56c177b44d56435919.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C076_E076_三联合伙合伙份额转让—严琪向孙国奉转让\\assets\\11a3bc2d1d86ce7f792b7f178eb45ac7a71f45309e74e000c7b24c725faebcf8.jpg"
+      ]
+    }
+  ],
+  "page_pool": [
+    {
+      "original_pdf_page": 38,
+      "text_blocks": [
+        "<table><tr><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股数量（万股）</td><td rowspan=1 colspan=1>持股比例(%）</td><td rowspan=1 colspan=1>出资方式</td><td rowspan=1 colspan=1>出资状态</td></tr><tr><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>2,287.00</td><td rowspan=1 colspan=1>26.91</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>张一衡</td><td rowspan=1 colspan=1>2,275.00</td><td rowspan=1 colspan=1>26.77</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>孙国敏</td><td rowspan=1 colspan=1>2,275.00</td><td rowspan=1 colspan=1>26.77</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>高新同华</td><td rowspan=1 colspan=1>1,150.00</td><td rowspan=1 colspan=1>13.53</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>三联合伙</td><td rowspan=1 colspan=1>348.00</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>货币</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>孙仁豪</td><td rowspan=1 colspan=1>163.00</td><td rowspan=1 colspan=1>1.92</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>8,498.00</td><td rowspan=1 colspan=1>100.00</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td></tr></table>",
+        "2020年1月9日，容诚会计师出具编号为容诚验字【2020】241Z0001 号《验资报告》，验证截至 2019 年 12 月 30 日，公司已收到股东三联合伙以货币方式缴纳出资 1,566 万元，其中 348 万元计入注册资本，剩余 1,218 万元计入资本公积，公司的注册资本增加至 8,498万元。",
+        "（2）股份支付情况",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "37"
+      ],
+      "tables": [
+        {
+          "pdf_page": 38,
+          "text": ""
+        },
+        {
+          "pdf_page": 38,
+          "text": "<table><tr><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股数量（万股）</td><td rowspan=1 colspan=1>持股比例(%）</td><td rowspan=1 colspan=1>出资方式</td><td rowspan=1 colspan=1>出资状态</td></tr><tr><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>2,287.00</td><td rowspan=1 colspan=1>26.91</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>张一衡</td><td rowspan=1 colspan=1>2,275.00</td><td rowspan=1 colspan=1>26.77</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>孙国敏</td><td rowspan=1 colspan=1>2,275.00</td><td rowspan=1 colspan=1>26.77</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>高新同华</td><td rowspan=1 colspan=1>1,150.00</td><td rowspan=1 colspan=1>13.53</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>三联合伙</td><td rowspan=1 colspan=1>348.00</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>货币</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>孙仁豪</td><td rowspan=1 colspan=1>163.00</td><td rowspan=1 colspan=1>1.92</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>8,498.00</td><td rowspan=1 colspan=1>100.00</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td></tr></table>"
+        }
+      ],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 39,
+      "text_blocks": [
+        "①股份支付费用的计算依据、方法",
+        "2019 年 12 月 10 日，公司聘请中水致远评估有限公司对公司股东全部权益价值进行评估并出具中水致远评咨字【2019】第 020067 号《芜湖三联锻造股份有限公司拟进行股份支付所涉及的股权公允价值项目估值报告》，截至评估基准日 2018 年 12 月 31 日，公司全部股东权益市场价值为 52,800.00 万元。按照评估价值及公司股本8,150.00万股计算，公司每股公允价值为 6.48元。",
+        "2022年3月10日，公司聘请中水致远评估有限公司对公司股东全部权益价值进行评估并出具中水致远评咨字【2022】第 020010 号《芜湖三联锻造股份有限公司进行股份支付所涉及的其股权公允价值追溯估值项目估值报告》，截至评估基准日 2019 年 12 月 31 日，公司全部股东权益评估价值为 58,300.00 万元。按照评估价值及公司股本 8,150.00万股计算，公司每股公允价值为 7.15元。",
+        "公司基于谨慎性考虑，参考中水致远评咨字【2022】第 020010 号《芜湖三联锻造股份有限公司进行股份支付所涉及的其股权公允价值追溯估值项目估值报告》，按照公司截至 2019 年 12 月 31 日的股权公允价值的评估对前次股份支付公允价值进行调整，将股份支付授予的公允价值由 6.48 元/股调整为 7.15 元/股。2019 年 12 月 4 日，公司股东大会审议通过了《关于公司增资扩股的议案》，发行人选择该时点作为授予日，按照 7年确认等待期（以 2019年12月4 日起算，按照公司上市申报计划 2023年12月上市，含上市后锁定期 3年），根据中水致远股权评估公允价值 7.15元/股与 4.50元/股的价差按期分摊计入当期费用。",
+        "公司在等待期内每个资产负债表日对预计可行权数量作出合理估计，确认相应的股权激励费用。等待期内若公司估计成功完成首次公开发行股票并上市且股票锁定期（自公司股票上市之日起三年）的时点发生变化，需根据重估时点确定等待期，截至当期累计应确认的股权激励费用扣减前期累计已确认金额，作为当期应确认的股权激励费用。",
+        "本次股份支付费用按照 7年等待期确认为管理费用和资本公积，并将确认的股份支付的费用计入经常性损益。对应会计处理为：",
+        "<table><tr><td colspan=\"1\" rowspan=\"1\">期间</td><td colspan=\"1\" rowspan=\"1\">会计科目</td><td colspan=\"1\" rowspan=\"1\">借方金额（元）</td><td colspan=\"1\" rowspan=\"1\">贷方金额（元）</td></tr><tr><td colspan=\"1\" rowspan=\"1\">2022 年度</td><td colspan=\"1\" rowspan=\"1\">管理费用-股份支付</td><td colspan=\"1\" rowspan=\"1\">962,795.80</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">资本公积</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">962,795.80</td></tr><tr><td colspan=\"1\" rowspan=\"2\">2021年度</td><td colspan=\"1\" rowspan=\"1\">管理费用-股份支付</td><td colspan=\"1\" rowspan=\"1\">929,944.49</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\">资本公积</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">929,944.49</td></tr><tr><td colspan=\"1\" rowspan=\"2\">2020年度</td><td colspan=\"1\" rowspan=\"1\">管理费用-股份支付</td><td colspan=\"1\" rowspan=\"1\">992,804.19</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\">资本公积</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">992,804.19</td></tr></table>\n本次股份支付具体计算过程和方法如下：",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "38"
+      ],
+      "tables": [
+        {
+          "pdf_page": 39,
+          "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">期间</td><td colspan=\"1\" rowspan=\"1\">会计科目</td><td colspan=\"1\" rowspan=\"1\">借方金额（元）</td><td colspan=\"1\" rowspan=\"1\">贷方金额（元）</td></tr><tr><td colspan=\"1\" rowspan=\"1\">2022 年度</td><td colspan=\"1\" rowspan=\"1\">管理费用-股份支付</td><td colspan=\"1\" rowspan=\"1\">962,795.80</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">资本公积</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">962,795.80</td></tr><tr><td colspan=\"1\" rowspan=\"2\">2021年度</td><td colspan=\"1\" rowspan=\"1\">管理费用-股份支付</td><td colspan=\"1\" rowspan=\"1\">929,944.49</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\">资本公积</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">929,944.49</td></tr><tr><td colspan=\"1\" rowspan=\"2\">2020年度</td><td colspan=\"1\" rowspan=\"1\">管理费用-股份支付</td><td colspan=\"1\" rowspan=\"1\">992,804.19</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\">资本公积</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">992,804.19</td></tr></table>\n本次股份支付具体计算过程和方法如下："
+        }
+      ],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 40,
+      "text_blocks": [
+        "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2022 年度</td><td rowspan=1 colspan=1>2021年度</td><td rowspan=1 colspan=1>2020 年度</td></tr><tr><td rowspan=1 colspan=1>对应公司股份支付数量（万股）①</td><td rowspan=1 colspan=1>254.00</td><td rowspan=1 colspan=1>254.00</td><td rowspan=1 colspan=1>262.00</td></tr><tr><td rowspan=1 colspan=1>公司每股股份公允价值（元/股）②</td><td rowspan=1 colspan=1>7.15</td><td rowspan=1 colspan=1>7.15</td><td rowspan=1 colspan=1>7.15</td></tr><tr><td rowspan=1 colspan=1>员工持股平台入股价格（元/股）③</td><td rowspan=1 colspan=1>4.50</td><td rowspan=1 colspan=1>4.50</td><td rowspan=1 colspan=1>4.50</td></tr><tr><td rowspan=1 colspan=1>确认股份支付费用（万元）④=①*((②-③)</td><td rowspan=1 colspan=1>673.96</td><td rowspan=1 colspan=1>673.96</td><td rowspan=1 colspan=1>695.18</td></tr><tr><td rowspan=1 colspan=1>等待期月数（月）⑤</td><td rowspan=1 colspan=1>84</td><td rowspan=1 colspan=1>84</td><td rowspan=1 colspan=1>84</td></tr><tr><td rowspan=1 colspan=1>累计等待月数（月）⑥</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>13</td></tr><tr><td rowspan=1 colspan=1>累计确认股份支付（万元）⑦=④*⑥/⑤</td><td rowspan=1 colspan=1>296.86</td><td rowspan=1 colspan=1>200.58</td><td rowspan=1 colspan=1>107.59</td></tr><tr><td rowspan=1 colspan=1>当期应确认股份支付（万元）</td><td rowspan=1 colspan=1>96.28</td><td rowspan=1 colspan=1>92.99</td><td rowspan=1 colspan=1>99.28</td></tr></table>",
+        "发行人对应公司股份数量变动系激励对象离职将其持有的合伙份额向普通合伙人转让，普通合伙人持有的公司股份不具有激励效果。",
+        "三联合伙自成立至 2022年12月31日，合伙人变动情况如下：\n②本次股权激励以换取服务为目的，约定最低服务期限\n<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>时间</td><td rowspan=1 colspan=1>出让人</td><td rowspan=1 colspan=1>受让人</td><td rowspan=1 colspan=1>转让出资额（万元）</td><td rowspan=1 colspan=1>对应发行人股数（万股）</td><td rowspan=1 colspan=1>转让比例（%）</td><td rowspan=1 colspan=1>转让对价（万元）</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2020.6.4</td><td rowspan=1 colspan=1>黎孝林</td><td rowspan=1 colspan=1>陈杰</td><td rowspan=1 colspan=1>9.00</td><td rowspan=1 colspan=1>2.00</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>9.00</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=2 colspan=1>2020.7.23</td><td rowspan=1 colspan=1>班文成</td><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>4.50</td><td rowspan=1 colspan=1>1.00</td><td rowspan=1 colspan=1>0.29</td><td rowspan=1 colspan=1>4.50</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>王洪兵</td><td rowspan=1 colspan=1>江民春</td><td rowspan=1 colspan=1>9.00</td><td rowspan=1 colspan=1>2.00</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>9.00</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2021.3.1</td><td rowspan=1 colspan=1>邓云辉</td><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>13.50</td><td rowspan=1 colspan=1>3.00</td><td rowspan=1 colspan=1>0.86</td><td rowspan=1 colspan=1>14.10</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=2 colspan=1>2021.6.30</td><td rowspan=1 colspan=1>昝朋</td><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>13.50</td><td rowspan=1 colspan=1>3.00</td><td rowspan=1 colspan=1>0.86</td><td rowspan=1 colspan=1>14.10</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>严琪</td><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>9.00</td><td rowspan=1 colspan=1>2.00</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>9.40</td></tr></table>",
+        "三联合伙的合伙人均为公司核心员工，公司向员工进行激励系以换取服务为目的。根据《芜湖三联控股合伙企业（有限合伙）合伙协议书》中约定“以标的公司在中国证券市场首次公开发行人民币普通股股票并上市且股票锁定期（自标的公司股票上市之日起三年）届满之日起，本合伙企业所持标的股份将根据合伙人的书面申请，并经合伙人会议表决通过（且必须取得执行事务合伙人孙国奉先生同意）后择机分批出售，出售股票所得款项扣税及扣除各种费用后由提出申请的合伙人按照提出申请比例进行分配。”该约定表明，三联锻造员工需完成规定的服务期限方可从股权激励计划中获益，属于可行权条件中的服务期限条件。",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "39"
+      ],
+      "tables": [
+        {
+          "pdf_page": 40,
+          "text": ""
+        },
+        {
+          "pdf_page": 40,
+          "text": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2022 年度</td><td rowspan=1 colspan=1>2021年度</td><td rowspan=1 colspan=1>2020 年度</td></tr><tr><td rowspan=1 colspan=1>对应公司股份支付数量（万股）①</td><td rowspan=1 colspan=1>254.00</td><td rowspan=1 colspan=1>254.00</td><td rowspan=1 colspan=1>262.00</td></tr><tr><td rowspan=1 colspan=1>公司每股股份公允价值（元/股）②</td><td rowspan=1 colspan=1>7.15</td><td rowspan=1 colspan=1>7.15</td><td rowspan=1 colspan=1>7.15</td></tr><tr><td rowspan=1 colspan=1>员工持股平台入股价格（元/股）③</td><td rowspan=1 colspan=1>4.50</td><td rowspan=1 colspan=1>4.50</td><td rowspan=1 colspan=1>4.50</td></tr><tr><td rowspan=1 colspan=1>确认股份支付费用（万元）④=①*((②-③)</td><td rowspan=1 colspan=1>673.96</td><td rowspan=1 colspan=1>673.96</td><td rowspan=1 colspan=1>695.18</td></tr><tr><td rowspan=1 colspan=1>等待期月数（月）⑤</td><td rowspan=1 colspan=1>84</td><td rowspan=1 colspan=1>84</td><td rowspan=1 colspan=1>84</td></tr><tr><td rowspan=1 colspan=1>累计等待月数（月）⑥</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>13</td></tr><tr><td rowspan=1 colspan=1>累计确认股份支付（万元）⑦=④*⑥/⑤</td><td rowspan=1 colspan=1>296.86</td><td rowspan=1 colspan=1>200.58</td><td rowspan=1 colspan=1>107.59</td></tr><tr><td rowspan=1 colspan=1>当期应确认股份支付（万元）</td><td rowspan=1 colspan=1>96.28</td><td rowspan=1 colspan=1>92.99</td><td rowspan=1 colspan=1>99.28</td></tr></table>"
+        },
+        {
+          "pdf_page": 40,
+          "text": "三联合伙自成立至 2022年12月31日，合伙人变动情况如下：\n②本次股权激励以换取服务为目的，约定最低服务期限\n<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>时间</td><td rowspan=1 colspan=1>出让人</td><td rowspan=1 colspan=1>受让人</td><td rowspan=1 colspan=1>转让出资额（万元）</td><td rowspan=1 colspan=1>对应发行人股数（万股）</td><td rowspan=1 colspan=1>转让比例（%）</td><td rowspan=1 colspan=1>转让对价（万元）</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2020.6.4</td><td rowspan=1 colspan=1>黎孝林</td><td rowspan=1 colspan=1>陈杰</td><td rowspan=1 colspan=1>9.00</td><td rowspan=1 colspan=1>2.00</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>9.00</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=2 colspan=1>2020.7.23</td><td rowspan=1 colspan=1>班文成</td><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>4.50</td><td rowspan=1 colspan=1>1.00</td><td rowspan=1 colspan=1>0.29</td><td rowspan=1 colspan=1>4.50</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>王洪兵</td><td rowspan=1 colspan=1>江民春</td><td rowspan=1 colspan=1>9.00</td><td rowspan=1 colspan=1>2.00</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>9.00</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>2021.3.1</td><td rowspan=1 colspan=1>邓云辉</td><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>13.50</td><td rowspan=1 colspan=1>3.00</td><td rowspan=1 colspan=1>0.86</td><td rowspan=1 colspan=1>14.10</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=2 colspan=1>2021.6.30</td><td rowspan=1 colspan=1>昝朋</td><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>13.50</td><td rowspan=1 colspan=1>3.00</td><td rowspan=1 colspan=1>0.86</td><td rowspan=1 colspan=1>14.10</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>严琪</td><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>9.00</td><td rowspan=1 colspan=1>2.00</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>9.40</td></tr></table>"
+        }
+      ],
+      "image_paths": []
+    }
+  ],
+  "output_requirement": "必须为本批次每个event_id输出一条独立的标准化事件记录。"
+}

@@ -1,0 +1,593 @@
+{
+  "document_id": "三联锻造",
+  "batch_id": "B003",
+  "event_count": 8,
+  "events": [
+    {
+      "candidate_id": "C021",
+      "event_id": "E021",
+      "event_type_hint": "股权转让",
+      "event_title": "三联有限第四次股权转让—孙国奉向孙国敏转让",
+      "event_date_hint": "2018-07",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+      "core_original_pdf_pages": [
+        34
+      ],
+      "context_original_pdf_pages": [
+        33,
+        34,
+        35
+      ],
+      "participants_hint": [
+        "孙国奉",
+        "孙国敏",
+        "三联有限"
+      ],
+      "evidence_start_hint": "孙国奉将出资额2,205万元转让予孙国敏",
+      "keyword_hits": {
+        "公司设立": [
+          "设立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "股权转让"
+        ],
+        "整体变更": [
+          "整体变更",
+          "变更为股份有限公司",
+          "折股",
+          "净资产折股"
+        ]
+      },
+      "contains_table_hint": false,
+      "contains_image_hint": true,
+      "needs_further_review_hint": true,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C021_E021_三联有限第四次股权转让—孙国奉向孙国敏转让\\assets\\75bb5537f808e1e9295800df8f43ea9b1d8a9b4c4e6e0b851183b6bb1a7db664.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C021_E021_三联有限第四次股权转让—孙国奉向孙国敏转让\\assets\\4c62d66225526671b446b866fd968878c3d9291bfc526e4a6471978d2e450140.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C022",
+      "event_id": "E022",
+      "event_type_hint": "股权转让",
+      "event_title": "三联有限第四次股权转让—张一衡向孙国敏转让",
+      "event_date_hint": "2018-07",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／1、三联锻造设立以来股本演变情况概图",
+      "core_original_pdf_pages": [
+        34
+      ],
+      "context_original_pdf_pages": [
+        33,
+        34,
+        35
+      ],
+      "participants_hint": [
+        "张一衡",
+        "孙国敏",
+        "三联有限"
+      ],
+      "evidence_start_hint": "张一衡将出资额70万元转让予孙国敏",
+      "keyword_hits": {
+        "公司设立": [
+          "设立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "股权转让"
+        ],
+        "整体变更": [
+          "整体变更",
+          "变更为股份有限公司",
+          "折股",
+          "净资产折股"
+        ]
+      },
+      "contains_table_hint": false,
+      "contains_image_hint": true,
+      "needs_further_review_hint": true,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C022_E022_三联有限第四次股权转让—张一衡向孙国敏转让\\assets\\75bb5537f808e1e9295800df8f43ea9b1d8a9b4c4e6e0b851183b6bb1a7db664.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C022_E022_三联有限第四次股权转让—张一衡向孙国敏转让\\assets\\4c62d66225526671b446b866fd968878c3d9291bfc526e4a6471978d2e450140.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C023",
+      "event_id": "E023",
+      "event_type_hint": "整体变更为股份有限公司",
+      "event_title": "整体变更发起人折股—孙国奉",
+      "event_date_hint": "2018-11-26",
+      "subsection_title": "（二）股份公司设立情况",
+      "core_original_pdf_pages": [
+        31,
+        32,
+        34
+      ],
+      "context_original_pdf_pages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "participants_hint": [
+        "孙国奉",
+        "芜湖三联锻造股份有限公司"
+      ],
+      "evidence_start_hint": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；孙国奉 28.06%",
+      "keyword_hits": {
+        "公司设立": [
+          "设立",
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "股权转让"
+        ],
+        "整体变更": [
+          "整体变更",
+          "变更为股份有限公司",
+          "折股",
+          "净资产折股"
+        ]
+      },
+      "contains_table_hint": false,
+      "contains_image_hint": true,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C023_E023_整体变更发起人折股—孙国奉\\assets\\fd311cdca8e76e33c520be20c70bb2c55864f3deba3045bfa3756665f6828920.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C023_E023_整体变更发起人折股—孙国奉\\assets\\87f9bf63b74266f9823a1068aabfd2be6fc5eec9854f91655f7f7ba9cab92675.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C023_E023_整体变更发起人折股—孙国奉\\assets\\7b29fd3364a631b18a9929efd67e091162fc41bf5d8c9ceeb22866f904028eb5.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C023_E023_整体变更发起人折股—孙国奉\\assets\\75bb5537f808e1e9295800df8f43ea9b1d8a9b4c4e6e0b851183b6bb1a7db664.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C023_E023_整体变更发起人折股—孙国奉\\assets\\4c62d66225526671b446b866fd968878c3d9291bfc526e4a6471978d2e450140.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C024",
+      "event_id": "E024",
+      "event_type_hint": "整体变更为股份有限公司",
+      "event_title": "整体变更发起人折股—张一衡",
+      "event_date_hint": "2018-11-26",
+      "subsection_title": "（二）股份公司设立情况",
+      "core_original_pdf_pages": [
+        31,
+        32,
+        34
+      ],
+      "context_original_pdf_pages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "participants_hint": [
+        "张一衡",
+        "芜湖三联锻造股份有限公司"
+      ],
+      "evidence_start_hint": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；张一衡 27.91%",
+      "keyword_hits": {
+        "公司设立": [
+          "设立",
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "股权转让"
+        ],
+        "整体变更": [
+          "整体变更",
+          "变更为股份有限公司",
+          "折股",
+          "净资产折股"
+        ]
+      },
+      "contains_table_hint": false,
+      "contains_image_hint": true,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C024_E024_整体变更发起人折股—张一衡\\assets\\fd311cdca8e76e33c520be20c70bb2c55864f3deba3045bfa3756665f6828920.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C024_E024_整体变更发起人折股—张一衡\\assets\\87f9bf63b74266f9823a1068aabfd2be6fc5eec9854f91655f7f7ba9cab92675.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C024_E024_整体变更发起人折股—张一衡\\assets\\7b29fd3364a631b18a9929efd67e091162fc41bf5d8c9ceeb22866f904028eb5.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C024_E024_整体变更发起人折股—张一衡\\assets\\75bb5537f808e1e9295800df8f43ea9b1d8a9b4c4e6e0b851183b6bb1a7db664.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C024_E024_整体变更发起人折股—张一衡\\assets\\4c62d66225526671b446b866fd968878c3d9291bfc526e4a6471978d2e450140.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C025",
+      "event_id": "E025",
+      "event_type_hint": "整体变更为股份有限公司",
+      "event_title": "整体变更发起人折股—孙国敏",
+      "event_date_hint": "2018-11-26",
+      "subsection_title": "（二）股份公司设立情况",
+      "core_original_pdf_pages": [
+        31,
+        32,
+        34
+      ],
+      "context_original_pdf_pages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "participants_hint": [
+        "孙国敏",
+        "芜湖三联锻造股份有限公司"
+      ],
+      "evidence_start_hint": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；孙国敏 27.91%",
+      "keyword_hits": {
+        "公司设立": [
+          "设立",
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "股权转让"
+        ],
+        "整体变更": [
+          "整体变更",
+          "变更为股份有限公司",
+          "折股",
+          "净资产折股"
+        ]
+      },
+      "contains_table_hint": false,
+      "contains_image_hint": true,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C025_E025_整体变更发起人折股—孙国敏\\assets\\fd311cdca8e76e33c520be20c70bb2c55864f3deba3045bfa3756665f6828920.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C025_E025_整体变更发起人折股—孙国敏\\assets\\87f9bf63b74266f9823a1068aabfd2be6fc5eec9854f91655f7f7ba9cab92675.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C025_E025_整体变更发起人折股—孙国敏\\assets\\7b29fd3364a631b18a9929efd67e091162fc41bf5d8c9ceeb22866f904028eb5.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C025_E025_整体变更发起人折股—孙国敏\\assets\\75bb5537f808e1e9295800df8f43ea9b1d8a9b4c4e6e0b851183b6bb1a7db664.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C025_E025_整体变更发起人折股—孙国敏\\assets\\4c62d66225526671b446b866fd968878c3d9291bfc526e4a6471978d2e450140.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C026",
+      "event_id": "E026",
+      "event_type_hint": "整体变更为股份有限公司",
+      "event_title": "整体变更发起人折股—高新同华",
+      "event_date_hint": "2018-11-26",
+      "subsection_title": "（二）股份公司设立情况",
+      "core_original_pdf_pages": [
+        31,
+        32,
+        34
+      ],
+      "context_original_pdf_pages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "participants_hint": [
+        "高新同华",
+        "芜湖三联锻造股份有限公司"
+      ],
+      "evidence_start_hint": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；高新同华 14.11%",
+      "keyword_hits": {
+        "公司设立": [
+          "设立",
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "股权转让"
+        ],
+        "整体变更": [
+          "整体变更",
+          "变更为股份有限公司",
+          "折股",
+          "净资产折股"
+        ]
+      },
+      "contains_table_hint": false,
+      "contains_image_hint": true,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C026_E026_整体变更发起人折股—高新同华\\assets\\fd311cdca8e76e33c520be20c70bb2c55864f3deba3045bfa3756665f6828920.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C026_E026_整体变更发起人折股—高新同华\\assets\\87f9bf63b74266f9823a1068aabfd2be6fc5eec9854f91655f7f7ba9cab92675.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C026_E026_整体变更发起人折股—高新同华\\assets\\7b29fd3364a631b18a9929efd67e091162fc41bf5d8c9ceeb22866f904028eb5.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C026_E026_整体变更发起人折股—高新同华\\assets\\75bb5537f808e1e9295800df8f43ea9b1d8a9b4c4e6e0b851183b6bb1a7db664.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C026_E026_整体变更发起人折股—高新同华\\assets\\4c62d66225526671b446b866fd968878c3d9291bfc526e4a6471978d2e450140.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C027",
+      "event_id": "E027",
+      "event_type_hint": "整体变更为股份有限公司",
+      "event_title": "整体变更发起人折股—孙仁豪",
+      "event_date_hint": "2018-11-26",
+      "subsection_title": "（二）股份公司设立情况",
+      "core_original_pdf_pages": [
+        31,
+        32,
+        34
+      ],
+      "context_original_pdf_pages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "participants_hint": [
+        "孙仁豪",
+        "芜湖三联锻造股份有限公司"
+      ],
+      "evidence_start_hint": "以三联有限截至2018年7月31日经审计后的净资产折股，整体变更为股份有限公司；孙仁豪 2.00%",
+      "keyword_hits": {
+        "公司设立": [
+          "设立",
+          "成立"
+        ],
+        "增资": [
+          "增资"
+        ],
+        "股权转让": [
+          "股权转让"
+        ],
+        "整体变更": [
+          "整体变更",
+          "变更为股份有限公司",
+          "折股",
+          "净资产折股"
+        ]
+      },
+      "contains_table_hint": false,
+      "contains_image_hint": true,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C027_E027_整体变更发起人折股—孙仁豪\\assets\\fd311cdca8e76e33c520be20c70bb2c55864f3deba3045bfa3756665f6828920.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C027_E027_整体变更发起人折股—孙仁豪\\assets\\87f9bf63b74266f9823a1068aabfd2be6fc5eec9854f91655f7f7ba9cab92675.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C027_E027_整体变更发起人折股—孙仁豪\\assets\\7b29fd3364a631b18a9929efd67e091162fc41bf5d8c9ceeb22866f904028eb5.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C027_E027_整体变更发起人折股—孙仁豪\\assets\\75bb5537f808e1e9295800df8f43ea9b1d8a9b4c4e6e0b851183b6bb1a7db664.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C027_E027_整体变更发起人折股—孙仁豪\\assets\\4c62d66225526671b446b866fd968878c3d9291bfc526e4a6471978d2e450140.jpg"
+      ]
+    },
+    {
+      "candidate_id": "C028",
+      "event_id": "E028",
+      "event_type_hint": "增资（员工持股平台入股）",
+      "event_title": "股份有限公司第一次增资—三联合伙认购348万股",
+      "event_date_hint": "2019-12-04",
+      "subsection_title": "（三）报告期内的股本和股东变化情况／2、发行人报告期内的股本演变情况／2019年12月，股份有限公司第一次增资／（1）增资情况",
+      "core_original_pdf_pages": [
+        35,
+        37
+      ],
+      "context_original_pdf_pages": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "participants_hint": [
+        "三联合伙（芜湖三联控股合伙企业（有限合伙））",
+        "三联锻造"
+      ],
+      "evidence_start_hint": "新增注册资本由新股东三联合伙以每股4.50元的价格认购，其中348万元计入注册资本",
+      "keyword_hits": {
+        "公司设立": [
+          "设立"
+        ],
+        "增资": [
+          "增资",
+          "新增注册资本"
+        ],
+        "股权转让": [
+          "股权转让"
+        ],
+        "整体变更": [
+          "整体变更"
+        ]
+      },
+      "contains_table_hint": true,
+      "contains_image_hint": false,
+      "needs_further_review_hint": false,
+      "image_paths": [
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C028_E028_股份有限公司第一次增资—三联合伙认购348万股\\assets\\75bb5537f808e1e9295800df8f43ea9b1d8a9b4c4e6e0b851183b6bb1a7db664.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C028_E028_股份有限公司第一次增资—三联合伙认购348万股\\assets\\4c62d66225526671b446b866fd968878c3d9291bfc526e4a6471978d2e450140.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C028_E028_股份有限公司第一次增资—三联合伙认购348万股\\assets\\ff3446bbebf2d3f0ca7b3ed884e6fc6dead79bdd9bae669a1a10be01360c72e2.jpg",
+        "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_candidate_packages\\C028_E028_股份有限公司第一次增资—三联合伙认购348万股\\assets\\6a89644955c3b099cf5994cc11fd492a62fa513e3fcf144c5c90ec939bd17536.jpg"
+      ]
+    }
+  ],
+  "page_pool": [
+    {
+      "original_pdf_page": 30,
+      "text_blocks": [
+        "第四节 发行人基本情况",
+        "一、发行人基本信息",
+        "<table><tr><td rowspan=1 colspan=1>中文名称</td><td rowspan=1 colspan=1>芜湖三联锻造股份有限公司</td></tr><tr><td rowspan=1 colspan=1>英文名称</td><td rowspan=1 colspan=1>Wuhu Sanlian Forging Co., Ltd.</td></tr><tr><td rowspan=1 colspan=1>注册资本</td><td rowspan=1 colspan=1>8,498.00万元</td></tr><tr><td rowspan=1 colspan=1>法定代表人</td><td rowspan=1 colspan=1>孙国奉</td></tr><tr><td rowspan=1 colspan=1>有限公司成立时间</td><td rowspan=1 colspan=1>2004年6月18日</td></tr><tr><td rowspan=1 colspan=1>股份公司成立时间</td><td rowspan=1 colspan=1>2018年11月26日</td></tr><tr><td rowspan=1 colspan=1>公司住所</td><td rowspan=1 colspan=1>芜湖市高新技术产业开发区天井山路 20 号</td></tr><tr><td rowspan=1 colspan=1>邮政编码</td><td rowspan=1 colspan=1>241003</td></tr><tr><td rowspan=1 colspan=1>联系电话</td><td rowspan=1 colspan=1>0553-5650331</td></tr><tr><td rowspan=1 colspan=1>传真号码</td><td rowspan=1 colspan=1>0553-5650331</td></tr><tr><td rowspan=1 colspan=1>公司网址</td><td rowspan=1 colspan=1>https://www.wuhusanlian.com</td></tr><tr><td rowspan=1 colspan=1>电子信箱</td><td rowspan=1 colspan=1>wuhusanlian@wuhusanlian.com</td></tr><tr><td rowspan=1 colspan=1>负责信息披露和投资者关系的部门</td><td rowspan=1 colspan=1>证券投资部</td></tr><tr><td rowspan=1 colspan=1>联系人</td><td rowspan=1 colspan=1>杨成</td></tr><tr><td rowspan=1 colspan=1>联系方式</td><td rowspan=1 colspan=1>0553-5650331</td></tr></table>",
+        "二、发行人设立及报告期内股本演变情况",
+        "（一）有限公司设立情况",
+        "1、有限公司设立程序",
+        "2004 年 6 月 1 日，孙国奉、孙国敏和张松满就设立三联有限签署了股东协议书及公司章程，约定三联有限的注册资本 500 万元，由孙国奉以机器设备出资175 万元，占注册资本 35%；孙国敏以货币和机器设备出资 162.5 万元，占注册资本32.5%；张松满以货币和机器设备出资 162.5 万元，占注册资本32.5%。",
+        "2、设立时股东出资的验资情况",
+        "2004年6月10日，安徽平泰会计师事务所出具编号为平泰会验字【2004】第 395 号《验资报告》，验证截至 2004 年 6 月 10 日，三联有限已收到全体股东缴纳的注册资本合计 500 万元，其中股东孙国奉以实物（机器设备）出资 175 万",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "29"
+      ],
+      "tables": [
+        {
+          "pdf_page": 30,
+          "text": "<table><tr><td rowspan=1 colspan=1>中文名称</td><td rowspan=1 colspan=1>芜湖三联锻造股份有限公司</td></tr><tr><td rowspan=1 colspan=1>英文名称</td><td rowspan=1 colspan=1>Wuhu Sanlian Forging Co., Ltd.</td></tr><tr><td rowspan=1 colspan=1>注册资本</td><td rowspan=1 colspan=1>8,498.00万元</td></tr><tr><td rowspan=1 colspan=1>法定代表人</td><td rowspan=1 colspan=1>孙国奉</td></tr><tr><td rowspan=1 colspan=1>有限公司成立时间</td><td rowspan=1 colspan=1>2004年6月18日</td></tr><tr><td rowspan=1 colspan=1>股份公司成立时间</td><td rowspan=1 colspan=1>2018年11月26日</td></tr><tr><td rowspan=1 colspan=1>公司住所</td><td rowspan=1 colspan=1>芜湖市高新技术产业开发区天井山路 20 号</td></tr><tr><td rowspan=1 colspan=1>邮政编码</td><td rowspan=1 colspan=1>241003</td></tr><tr><td rowspan=1 colspan=1>联系电话</td><td rowspan=1 colspan=1>0553-5650331</td></tr><tr><td rowspan=1 colspan=1>传真号码</td><td rowspan=1 colspan=1>0553-5650331</td></tr><tr><td rowspan=1 colspan=1>公司网址</td><td rowspan=1 colspan=1>https://www.wuhusanlian.com</td></tr><tr><td rowspan=1 colspan=1>电子信箱</td><td rowspan=1 colspan=1>wuhusanlian@wuhusanlian.com</td></tr><tr><td rowspan=1 colspan=1>负责信息披露和投资者关系的部门</td><td rowspan=1 colspan=1>证券投资部</td></tr><tr><td rowspan=1 colspan=1>联系人</td><td rowspan=1 colspan=1>杨成</td></tr><tr><td rowspan=1 colspan=1>联系方式</td><td rowspan=1 colspan=1>0553-5650331</td></tr></table>"
+        }
+      ],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 31,
+      "text_blocks": [
+        "元；股东孙国敏以货币出资 52.5 万元，以实物（机器设备）出资 100 万元，以代三联有限支付的土地款形成的债权出资 10 万元，共计 162.5 万元；股东张松满以货币出资57.5万元，以实物（机器设备）出资 105 万元，共计 162.5 万元。",
+        "2004年6月18日，三联有限设立经芜湖市工商行政管理局核准，并取得注册号为 3402012102584 的《营业执照》。",
+        "三联有限设立时出资结构如下：\n<table><tr><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>注册资本（万元）</td><td rowspan=1 colspan=1>出资比例（%)</td><td rowspan=1 colspan=1>出资方式</td><td rowspan=1 colspan=1>出资状态</td></tr><tr><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>175.00</td><td rowspan=1 colspan=1>35.00</td><td rowspan=1 colspan=1>实物（机器设备）</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=3 colspan=1>孙国敏</td><td rowspan=1 colspan=1>52.50</td><td rowspan=3 colspan=1>32.50</td><td rowspan=1 colspan=1>货币</td><td rowspan=3 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>100.00</td><td rowspan=1 colspan=1>实物（机器设备）</td></tr><tr><td rowspan=1 colspan=1>10.00</td><td rowspan=1 colspan=1>债权（代付土地款）</td></tr><tr><td rowspan=2 colspan=1>张松满</td><td rowspan=1 colspan=1>57.50</td><td rowspan=2 colspan=1>32.50</td><td rowspan=1 colspan=1>货币</td><td rowspan=2 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>105.00</td><td rowspan=1 colspan=1>实物（机器设备）</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>500.00</td><td rowspan=1 colspan=1>100.00</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td></tr></table>\n注：张松满系孙国奉之妹孙娟丽的配偶。",
+        "3、货币资金置换实物出资的情况",
+        "2006 年 9 月 28 日，三联有限召开股东会并决议，同意因生产工艺及设备质量问题退回三联有限股东用以出资的机器设备，以货币方式置换该实物出资。三联有限设立时，该机器设备作为实物出资未履行评估作价程序，不符合当时有效的《公司法》（1999 年）中第二十四条的规定，存在出资程序瑕疵。股东以现金方式置换该实物出资后，该出资程序瑕疵已消除。",
+        "2007 年 11 月 26 日，安徽平泰会计师事务所出具编号为平泰会验字【2007】第 377 号《验资报告》，验证截至 2007 年 11 月 26 日，三联有限已收到全体股东 380 万元货币出资，置换原设立时股东投入的实物资产。其中孙国奉货币出资175万元，孙国敏货币出资 100万元，张松满货币出资 105万元。三联有限的注册资本仍为500万元。",
+        "本次货币出资置换完成后，三联有限的出资结构如下：",
+        "<table><tr><td colspan=\"1\" rowspan=\"1\">股东名称</td><td colspan=\"1\" rowspan=\"1\">注册资本（万元）</td><td colspan=\"1\" rowspan=\"1\">出资比例（%)</td><td colspan=\"1\" rowspan=\"1\">出资方式</td><td colspan=\"1\" rowspan=\"1\">出资状态</td></tr><tr><td colspan=\"1\" rowspan=\"1\">孙国奉</td><td colspan=\"1\" rowspan=\"1\">175.00</td><td colspan=\"1\" rowspan=\"1\">35.00</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">实缴出资</td></tr><tr><td colspan=\"1\" rowspan=\"2\">孙国敏</td><td colspan=\"1\" rowspan=\"1\">152.50</td><td colspan=\"1\" rowspan=\"2\">32.50</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"2\">实缴出资</td></tr><tr><td colspan=\"1\" rowspan=\"1\">10.00</td><td colspan=\"1\" rowspan=\"1\">债权（代付土地款）</td></tr><tr><td colspan=\"1\" rowspan=\"1\">张松满</td><td colspan=\"1\" rowspan=\"1\">162.50</td><td colspan=\"1\" rowspan=\"1\">32.50</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">实缴出资</td></tr><tr><td colspan=\"1\" rowspan=\"1\">合计</td><td colspan=\"1\" rowspan=\"1\">500.00</td><td colspan=\"1\" rowspan=\"1\">100.00</td><td colspan=\"1\" rowspan=\"1\">/</td><td colspan=\"1\" rowspan=\"1\">/</td></tr></table>",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "30"
+      ],
+      "tables": [
+        {
+          "pdf_page": 31,
+          "text": "三联有限设立时出资结构如下：\n<table><tr><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>注册资本（万元）</td><td rowspan=1 colspan=1>出资比例（%)</td><td rowspan=1 colspan=1>出资方式</td><td rowspan=1 colspan=1>出资状态</td></tr><tr><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>175.00</td><td rowspan=1 colspan=1>35.00</td><td rowspan=1 colspan=1>实物（机器设备）</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=3 colspan=1>孙国敏</td><td rowspan=1 colspan=1>52.50</td><td rowspan=3 colspan=1>32.50</td><td rowspan=1 colspan=1>货币</td><td rowspan=3 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>100.00</td><td rowspan=1 colspan=1>实物（机器设备）</td></tr><tr><td rowspan=1 colspan=1>10.00</td><td rowspan=1 colspan=1>债权（代付土地款）</td></tr><tr><td rowspan=2 colspan=1>张松满</td><td rowspan=1 colspan=1>57.50</td><td rowspan=2 colspan=1>32.50</td><td rowspan=1 colspan=1>货币</td><td rowspan=2 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>105.00</td><td rowspan=1 colspan=1>实物（机器设备）</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>500.00</td><td rowspan=1 colspan=1>100.00</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td></tr></table>\n注：张松满系孙国奉之妹孙娟丽的配偶。"
+        },
+        {
+          "pdf_page": 31,
+          "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">股东名称</td><td colspan=\"1\" rowspan=\"1\">注册资本（万元）</td><td colspan=\"1\" rowspan=\"1\">出资比例（%)</td><td colspan=\"1\" rowspan=\"1\">出资方式</td><td colspan=\"1\" rowspan=\"1\">出资状态</td></tr><tr><td colspan=\"1\" rowspan=\"1\">孙国奉</td><td colspan=\"1\" rowspan=\"1\">175.00</td><td colspan=\"1\" rowspan=\"1\">35.00</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">实缴出资</td></tr><tr><td colspan=\"1\" rowspan=\"2\">孙国敏</td><td colspan=\"1\" rowspan=\"1\">152.50</td><td colspan=\"1\" rowspan=\"2\">32.50</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"2\">实缴出资</td></tr><tr><td colspan=\"1\" rowspan=\"1\">10.00</td><td colspan=\"1\" rowspan=\"1\">债权（代付土地款）</td></tr><tr><td colspan=\"1\" rowspan=\"1\">张松满</td><td colspan=\"1\" rowspan=\"1\">162.50</td><td colspan=\"1\" rowspan=\"1\">32.50</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">实缴出资</td></tr><tr><td colspan=\"1\" rowspan=\"1\">合计</td><td colspan=\"1\" rowspan=\"1\">500.00</td><td colspan=\"1\" rowspan=\"1\">100.00</td><td colspan=\"1\" rowspan=\"1\">/</td><td colspan=\"1\" rowspan=\"1\">/</td></tr></table>"
+        }
+      ],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 32,
+      "text_blocks": [
+        "2021年5月8日，芜湖市市场监督管理局针对上述货币资金置换出具了《情况说明》，确认上述设备出资未经评估的瑕疵情形已主动消除且已超出行政处罚法规定的行政处罚期限。",
+        "2021年5月20日，容诚会计师出具编号为容诚专字【2021】241Z0033号的《验资复核报告》，对前述验资事项进行了复核验证，验证置换实物资产的货币资金 380 万元已投入三联有限，出资足额、真实；债权出资 10 万元已投入三联有限，出资足额、真实。",
+        "（二）股份公司设立情况",
+        "1、发行人设立的程序",
+        "2018 年 10 月 11 日，三联有限召开股东会并作出决议，全体股东一致同意三联有限整体变更设立股份有限公司。根据华普天健会计师事务所（特殊普通合伙）出具编号为会审字【2018】5737号《审计报告》，截至 2018 年7 月 31 日，三联有限经审计的净资产总计为 308,886,389.01 元，按照 1：0.2639的比例折股，折合为股份有限公司的股份总数为 81,500,000 股，每股面值 1 元，共计81,500,000.00 元，其余 227,386,389.01 元计入资本公积。",
+        "根据中水致远资产评估有限公司出具的中水致远评报字【2018】第 020281号《芜湖三联锻造有限公司拟整体变更设立股份有限公司项目资产评估报告》，截至 2018 年 7 月 31 日，公司净资产评估价值为 37,526.27 万元。",
+        "2018 年 10 月 11 日，孙国奉、张一衡、孙国敏、孙仁豪、高新同华等 5 名股东作为发起人签署了《发起人协议》，一致同意由三联有限整体变更设立股份公司，股份公司的注册资本为 8,150万元。",
+        "2018 年 10 月 27 日，公司召开创立大会暨第一次临时股东大会并作出决议，全体股东（发起人）一致同意通过关于整体变更为股份公司的相关议案。",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "31"
+      ],
+      "tables": [
+        {
+          "pdf_page": 32,
+          "text": ""
+        }
+      ],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 33,
+      "text_blocks": [
+        "2018 年 10 月 27 日，华普天健会计师事务所（特殊普通合伙）对公司的出资情况进行了审验，并出具会验字【2018】6175 号《验资报告》，验证截至 2018年 10 月 27 日，公司已收到全体股东以净资产折股的方式缴纳的注册资本 8,150万元。",
+        "2018 年 11 月 26 日，三联有限整体变更为股份有限公司经芜湖市工商行政管理局核准，并取得统一社会信用代码为 91340200762794150A的《营业执照》。",
+        "2、发行人对股份改制折股净资产的调整与复核",
+        "2021年5月15日，容诚会计师出具容诚专字【2021】241Z0034号《芜湖三联锻造股份有限公司股改净资产出资到位情况专项复核的报告》及《关于芜湖三联锻造股份有限公司前期会计差错事项对股改基准日净资产影响的说明》，因前期会计差错更正，将三联有限股改基准日净资产由 308,886,389.01 元调整为298,285,000.14 元。调整后，截至 2018 年 7 月 31 日，三联有限经审计的净资产总计为 298,285,000.14 元，按照 1：0.2732 折股，折合为股份有限公司的股份总数为 81,500,000 股，每股面值 1 元，共计 81,500,000.00 元，调整后净资产超出股本部分216,785,000.14 元计入股份公司的资本公积。上述调整事项对股改时公司净资产出资情况未产生出资不实的影响。",
+        "2021年5月15日，中水致远资产评估有限公司出具《关于芜湖三联锻造股份有限公司前期会计差错更正对股改基准日评估净资产影响的说明》，将三联有限截至 2018 年 7 月 31 日净资产的评估价值调整为 36,433.51 万元。",
+        "2021年5月15日，发行人召开了第一届董事会第十七次会议，同意公司对上述会计差错进行更正。发行人独立董事就前期会计差错更正发表独立意见，同意发行人的会计处理方式，同意发行人根据调整后的股改净资产进行折股。2021年5月31日，发行人召开 2021年第二次临时股东大会，同意公司对上述会计差错进行更正。",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "32"
+      ],
+      "tables": [],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 34,
+      "text_blocks": [
+        "（三）报告期内的股本和股东变化情况",
+        "1、三联锻造设立以来股本演变情况概图",
+        "（转下图）",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "33"
+      ],
+      "tables": [],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 35,
+      "text_blocks": [
+        "（续上图）",
+        "2、发行人报告期内的股本演变情况",
+        "三联有限自设立至报告期期初（2019 年初）进行了四次股权转让和四次增资，并于 2018 年 11 月整体变更为股份公司，具体情况请参见申报文件“4-3 发行人关于公司设立以来股本演变情况的说明及其董事、监事、高级管理人员的确认意见”。",
+        "报告期内，发行人的股本和股东变化情况如下：",
+        "2019 年 12 月，股份有限公司第一次增资",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "34"
+      ],
+      "tables": [],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 36,
+      "text_blocks": [
+        "（1）增资情况",
+        "2019年12月4日，公司召开2019年第二次临时股东大会，审议通过了《关于公司增资扩股的议案》，议案决定拟将公司的注册资本由 8,150 万元增加至8,498万元。新增注册资本由新股东三联合伙以每股 4.50元的价格认购，其中 348万元计入注册资本，剩余 1,218 万元计入资本公积。",
+        "本次增资时三联合伙合伙人的岗位及合伙份额情况如下：\n<table><tr><td colspan=\"1\" rowspan=\"1\">序号</td><td colspan=\"1\" rowspan=\"1\">姓名</td><td colspan=\"1\" rowspan=\"1\">合伙人类型</td><td colspan=\"1\" rowspan=\"1\">岗位</td><td colspan=\"1\" rowspan=\"1\">认缴出资额（万元）</td><td colspan=\"1\" rowspan=\"1\">出资比例(%)</td><td colspan=\"1\" rowspan=\"1\">出资方式</td><td colspan=\"1\" rowspan=\"1\">出资期限</td></tr><tr><td colspan=\"1\" rowspan=\"1\">1</td><td colspan=\"1\" rowspan=\"1\">孙国奉</td><td colspan=\"1\" rowspan=\"1\">普通合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造董事长、总经理</td><td colspan=\"1\" rowspan=\"1\">382.50</td><td colspan=\"1\" rowspan=\"1\">24.43</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">2</td><td colspan=\"1\" rowspan=\"1\">韩良</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造董事、副总经理</td><td colspan=\"1\" rowspan=\"1\">360.00</td><td colspan=\"1\" rowspan=\"1\">22.99</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">3</td><td colspan=\"1\" rowspan=\"1\">孟江峰</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造副总经理</td><td colspan=\"1\" rowspan=\"1\">135.00</td><td colspan=\"1\" rowspan=\"1\">8.62</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">4</td><td colspan=\"1\" rowspan=\"1\">杨成</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造财务总监、董事会秘书</td><td colspan=\"1\" rowspan=\"1\">54.00</td><td colspan=\"1\" rowspan=\"1\">3.45</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">5</td><td colspan=\"1\" rowspan=\"1\">谭辉</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">鑫联精工总经理</td><td colspan=\"1\" rowspan=\"1\">45.00</td><td colspan=\"1\" rowspan=\"1\">2.87</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">6</td><td colspan=\"1\" rowspan=\"1\">刘云祥</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">湖州三连副总经理</td><td colspan=\"1\" rowspan=\"1\">45.00</td><td colspan=\"1\" rowspan=\"1\">2.87</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">7</td><td colspan=\"1\" rowspan=\"1\">洪贤来</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造机加技术总监</td><td colspan=\"1\" rowspan=\"1\">45.00</td><td colspan=\"1\" rowspan=\"1\">2.87</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">8</td><td colspan=\"1\" rowspan=\"1\">王芳琴</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造采购部总监</td><td colspan=\"1\" rowspan=\"1\">45.00</td><td colspan=\"1\" rowspan=\"1\">2.87</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">9</td><td colspan=\"1\" rowspan=\"1\">孙秀娟</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造监事会主席、销售部总监</td><td colspan=\"1\" rowspan=\"1\">27.00</td><td colspan=\"1\" rowspan=\"1\">1.72</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">10</td><td colspan=\"1\" rowspan=\"1\">朱兵兵</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造销售部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">11</td><td colspan=\"1\" rowspan=\"1\">班文成</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造监事、质保部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">12</td><td colspan=\"1\" rowspan=\"1\">王洪兵</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造机加生产部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">13</td><td colspan=\"1\" rowspan=\"1\">田金龙</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造监事、锻造技术部部长</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">14</td><td colspan=\"1\" rowspan=\"1\">章仁先</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造设备保全部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">15</td><td colspan=\"1\" rowspan=\"1\">刘锐</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">芜湖万联生产部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">16</td><td colspan=\"1\" rowspan=\"1\">揭谦福</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造锻造质量部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">17</td><td colspan=\"1\" rowspan=\"1\">张猛</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">芜湖万联质保部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">18</td><td colspan=\"1\" rowspan=\"1\">刘青</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造工模部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">19</td><td colspan=\"1\" rowspan=\"1\">李联刚</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造锻造生产部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">20</td><td colspan=\"1\" rowspan=\"1\">叶永龙</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造财务科长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">21</td><td colspan=\"1\" rowspan=\"1\">钱慧</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造证事</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">22</td><td colspan=\"1\" rowspan=\"1\">昝朋</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件技术部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">23</td><td colspan=\"1\" rowspan=\"1\">张宏禹</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件工艺部部长、湖州三连监事</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">24</td><td colspan=\"1\" rowspan=\"1\">陈林</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">湖州三连技术部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">25</td><td colspan=\"1\" rowspan=\"1\">徐林鸟</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件财务部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">26</td><td colspan=\"1\" rowspan=\"1\">邓云辉</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">零部件销售总监</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">27</td><td colspan=\"1\" rowspan=\"1\">秦勇</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造机加技术部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">28</td><td colspan=\"1\" rowspan=\"1\">刘涛</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造锻造生产部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">29</td><td colspan=\"1\" rowspan=\"1\">毛水荣</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造采购部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">30</td><td colspan=\"1\" rowspan=\"1\">孙文政</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造锻造技术部工艺科科长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">31</td><td colspan=\"1\" rowspan=\"1\">汪月朋</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造管理部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">32</td><td colspan=\"1\" rowspan=\"1\">杨建伟</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造机加生产部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">33</td><td colspan=\"1\" rowspan=\"1\">严琪</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造工艺部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">34</td><td colspan=\"1\" rowspan=\"1\">王浩</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">芜湖万联锻造工艺部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">35</td><td colspan=\"1\" rowspan=\"1\">张星</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件技术部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">36</td><td colspan=\"1\" rowspan=\"1\">董瑞丽</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件企管部人事主管</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">37</td><td colspan=\"1\" rowspan=\"1\">陈海燕</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件会计、工会主席</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">38</td><td colspan=\"1\" rowspan=\"1\">余小雷</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">湖州三连工艺部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">39</td><td colspan=\"1\" rowspan=\"1\">刘细兰</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件采购部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">40</td><td colspan=\"1\" rowspan=\"1\">黎孝林</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">鑫联精工技术部工程师</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">41</td><td colspan=\"1\" rowspan=\"1\">张军照</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">鑫联精工工艺部总监</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42</td><td colspan=\"1\" rowspan=\"1\">孙兴明</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">鑫联精工技术部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"2\" rowspan=\"1\">合计</td><td colspan=\"1\" rowspan=\"1\">/</td><td colspan=\"1\" rowspan=\"1\">1</td><td colspan=\"1\" rowspan=\"1\">1,566.00</td><td colspan=\"1\" rowspan=\"1\">100.00</td><td colspan=\"1\" rowspan=\"1\">/</td><td colspan=\"1\" rowspan=\"1\">/</td></tr></table>\n2019 年 12 月 17 日，三联锻造本次增资经芜湖市市场监督管理局核准，并取得统一社会信用代码为 91340200762794150A的《营业执照》。\n本次增资完成后，公司股本结构如下：",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "35"
+      ],
+      "tables": [
+        {
+          "pdf_page": 36,
+          "text": "本次增资时三联合伙合伙人的岗位及合伙份额情况如下：\n<table><tr><td colspan=\"1\" rowspan=\"1\">序号</td><td colspan=\"1\" rowspan=\"1\">姓名</td><td colspan=\"1\" rowspan=\"1\">合伙人类型</td><td colspan=\"1\" rowspan=\"1\">岗位</td><td colspan=\"1\" rowspan=\"1\">认缴出资额（万元）</td><td colspan=\"1\" rowspan=\"1\">出资比例(%)</td><td colspan=\"1\" rowspan=\"1\">出资方式</td><td colspan=\"1\" rowspan=\"1\">出资期限</td></tr><tr><td colspan=\"1\" rowspan=\"1\">1</td><td colspan=\"1\" rowspan=\"1\">孙国奉</td><td colspan=\"1\" rowspan=\"1\">普通合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造董事长、总经理</td><td colspan=\"1\" rowspan=\"1\">382.50</td><td colspan=\"1\" rowspan=\"1\">24.43</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">2</td><td colspan=\"1\" rowspan=\"1\">韩良</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造董事、副总经理</td><td colspan=\"1\" rowspan=\"1\">360.00</td><td colspan=\"1\" rowspan=\"1\">22.99</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">3</td><td colspan=\"1\" rowspan=\"1\">孟江峰</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造副总经理</td><td colspan=\"1\" rowspan=\"1\">135.00</td><td colspan=\"1\" rowspan=\"1\">8.62</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">4</td><td colspan=\"1\" rowspan=\"1\">杨成</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造财务总监、董事会秘书</td><td colspan=\"1\" rowspan=\"1\">54.00</td><td colspan=\"1\" rowspan=\"1\">3.45</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">5</td><td colspan=\"1\" rowspan=\"1\">谭辉</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">鑫联精工总经理</td><td colspan=\"1\" rowspan=\"1\">45.00</td><td colspan=\"1\" rowspan=\"1\">2.87</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">6</td><td colspan=\"1\" rowspan=\"1\">刘云祥</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">湖州三连副总经理</td><td colspan=\"1\" rowspan=\"1\">45.00</td><td colspan=\"1\" rowspan=\"1\">2.87</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">7</td><td colspan=\"1\" rowspan=\"1\">洪贤来</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造机加技术总监</td><td colspan=\"1\" rowspan=\"1\">45.00</td><td colspan=\"1\" rowspan=\"1\">2.87</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">8</td><td colspan=\"1\" rowspan=\"1\">王芳琴</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造采购部总监</td><td colspan=\"1\" rowspan=\"1\">45.00</td><td colspan=\"1\" rowspan=\"1\">2.87</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">9</td><td colspan=\"1\" rowspan=\"1\">孙秀娟</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造监事会主席、销售部总监</td><td colspan=\"1\" rowspan=\"1\">27.00</td><td colspan=\"1\" rowspan=\"1\">1.72</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">10</td><td colspan=\"1\" rowspan=\"1\">朱兵兵</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造销售部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">11</td><td colspan=\"1\" rowspan=\"1\">班文成</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造监事、质保部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">12</td><td colspan=\"1\" rowspan=\"1\">王洪兵</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造机加生产部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">13</td><td colspan=\"1\" rowspan=\"1\">田金龙</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造监事、锻造技术部部长</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">14</td><td colspan=\"1\" rowspan=\"1\">章仁先</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造设备保全部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">15</td><td colspan=\"1\" rowspan=\"1\">刘锐</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">芜湖万联生产部总监</td><td colspan=\"1\" rowspan=\"1\">22.50</td><td colspan=\"1\" rowspan=\"1\">1.44</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">16</td><td colspan=\"1\" rowspan=\"1\">揭谦福</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造锻造质量部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">17</td><td colspan=\"1\" rowspan=\"1\">张猛</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">芜湖万联质保部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">18</td><td colspan=\"1\" rowspan=\"1\">刘青</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造工模部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">19</td><td colspan=\"1\" rowspan=\"1\">李联刚</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造锻造生产部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">20</td><td colspan=\"1\" rowspan=\"1\">叶永龙</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造财务科长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">21</td><td colspan=\"1\" rowspan=\"1\">钱慧</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造证事</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">22</td><td colspan=\"1\" rowspan=\"1\">昝朋</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件技术部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">23</td><td colspan=\"1\" rowspan=\"1\">张宏禹</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件工艺部部长、湖州三连监事</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">24</td><td colspan=\"1\" rowspan=\"1\">陈林</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">湖州三连技术部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">25</td><td colspan=\"1\" rowspan=\"1\">徐林鸟</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件财务部部长</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">26</td><td colspan=\"1\" rowspan=\"1\">邓云辉</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">零部件销售总监</td><td colspan=\"1\" rowspan=\"1\">13.50</td><td colspan=\"1\" rowspan=\"1\">0.86</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">27</td><td colspan=\"1\" rowspan=\"1\">秦勇</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造机加技术部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">28</td><td colspan=\"1\" rowspan=\"1\">刘涛</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造锻造生产部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">29</td><td colspan=\"1\" rowspan=\"1\">毛水荣</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造采购部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">30</td><td colspan=\"1\" rowspan=\"1\">孙文政</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造锻造技术部工艺科科长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">31</td><td colspan=\"1\" rowspan=\"1\">汪月朋</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造管理部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">32</td><td colspan=\"1\" rowspan=\"1\">杨建伟</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造机加生产部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">33</td><td colspan=\"1\" rowspan=\"1\">严琪</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三联锻造工艺部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">34</td><td colspan=\"1\" rowspan=\"1\">王浩</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">芜湖万联锻造工艺部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">35</td><td colspan=\"1\" rowspan=\"1\">张星</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件技术部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">36</td><td colspan=\"1\" rowspan=\"1\">董瑞丽</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件企管部人事主管</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">37</td><td colspan=\"1\" rowspan=\"1\">陈海燕</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件会计、工会主席</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">38</td><td colspan=\"1\" rowspan=\"1\">余小雷</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">湖州三连工艺部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">39</td><td colspan=\"1\" rowspan=\"1\">刘细兰</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">三连零部件采购部部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">40</td><td colspan=\"1\" rowspan=\"1\">黎孝林</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">鑫联精工技术部工程师</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">41</td><td colspan=\"1\" rowspan=\"1\">张军照</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">鑫联精工工艺部总监</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31 之前</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42</td><td colspan=\"1\" rowspan=\"1\">孙兴明</td><td colspan=\"1\" rowspan=\"1\">有限合伙人</td><td colspan=\"1\" rowspan=\"1\">鑫联精工技术部副部长</td><td colspan=\"1\" rowspan=\"1\">9.00</td><td colspan=\"1\" rowspan=\"1\">0.57</td><td colspan=\"1\" rowspan=\"1\">货币</td><td colspan=\"1\" rowspan=\"1\">2019.12.31之前</td></tr><tr><td colspan=\"2\" rowspan=\"1\">合计</td><td colspan=\"1\" rowspan=\"1\">/</td><td colspan=\"1\" rowspan=\"1\">1</td><td colspan=\"1\" rowspan=\"1\">1,566.00</td><td colspan=\"1\" rowspan=\"1\">100.00</td><td colspan=\"1\" rowspan=\"1\">/</td><td colspan=\"1\" rowspan=\"1\">/</td></tr></table>\n2019 年 12 月 17 日，三联锻造本次增资经芜湖市市场监督管理局核准，并取得统一社会信用代码为 91340200762794150A的《营业执照》。\n本次增资完成后，公司股本结构如下："
+        }
+      ],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 37,
+      "text_blocks": [
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "36"
+      ],
+      "tables": [
+        {
+          "pdf_page": 37,
+          "text": ""
+        }
+      ],
+      "image_paths": []
+    },
+    {
+      "original_pdf_page": 38,
+      "text_blocks": [
+        "<table><tr><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股数量（万股）</td><td rowspan=1 colspan=1>持股比例(%）</td><td rowspan=1 colspan=1>出资方式</td><td rowspan=1 colspan=1>出资状态</td></tr><tr><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>2,287.00</td><td rowspan=1 colspan=1>26.91</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>张一衡</td><td rowspan=1 colspan=1>2,275.00</td><td rowspan=1 colspan=1>26.77</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>孙国敏</td><td rowspan=1 colspan=1>2,275.00</td><td rowspan=1 colspan=1>26.77</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>高新同华</td><td rowspan=1 colspan=1>1,150.00</td><td rowspan=1 colspan=1>13.53</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>三联合伙</td><td rowspan=1 colspan=1>348.00</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>货币</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>孙仁豪</td><td rowspan=1 colspan=1>163.00</td><td rowspan=1 colspan=1>1.92</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>8,498.00</td><td rowspan=1 colspan=1>100.00</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td></tr></table>",
+        "2020年1月9日，容诚会计师出具编号为容诚验字【2020】241Z0001 号《验资报告》，验证截至 2019 年 12 月 30 日，公司已收到股东三联合伙以货币方式缴纳出资 1,566 万元，其中 348 万元计入注册资本，剩余 1,218 万元计入资本公积，公司的注册资本增加至 8,498万元。",
+        "（2）股份支付情况",
+        "芜湖三联锻造股份有限公司",
+        "招股说明书",
+        "37"
+      ],
+      "tables": [
+        {
+          "pdf_page": 38,
+          "text": ""
+        },
+        {
+          "pdf_page": 38,
+          "text": "<table><tr><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股数量（万股）</td><td rowspan=1 colspan=1>持股比例(%）</td><td rowspan=1 colspan=1>出资方式</td><td rowspan=1 colspan=1>出资状态</td></tr><tr><td rowspan=1 colspan=1>孙国奉</td><td rowspan=1 colspan=1>2,287.00</td><td rowspan=1 colspan=1>26.91</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>张一衡</td><td rowspan=1 colspan=1>2,275.00</td><td rowspan=1 colspan=1>26.77</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>孙国敏</td><td rowspan=1 colspan=1>2,275.00</td><td rowspan=1 colspan=1>26.77</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>高新同华</td><td rowspan=1 colspan=1>1,150.00</td><td rowspan=1 colspan=1>13.53</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>三联合伙</td><td rowspan=1 colspan=1>348.00</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>货币</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>孙仁豪</td><td rowspan=1 colspan=1>163.00</td><td rowspan=1 colspan=1>1.92</td><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>实缴出资</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>8,498.00</td><td rowspan=1 colspan=1>100.00</td><td rowspan=1 colspan=1>/</td><td rowspan=1 colspan=1>/</td></tr></table>"
+        }
+      ],
+      "image_paths": []
+    }
+  ],
+  "output_requirement": "必须为本批次每个event_id输出一条独立的标准化事件记录。"
+}

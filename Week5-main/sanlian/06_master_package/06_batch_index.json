@@ -1,0 +1,230 @@
+{
+  "document_id": "三联锻造",
+  "master_package": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\06_master_candidate_package.json",
+  "total_event_count": 76,
+  "batch_count": 18,
+  "max_events_per_batch": 10,
+  "max_chars_per_batch": 100000,
+  "batches": [
+    {
+      "batch_id": "B001",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006",
+        "E007",
+        "E008",
+        "E009",
+        "E010"
+      ],
+      "event_count": 10,
+      "page_count": 5,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B001.json"
+    },
+    {
+      "batch_id": "B002",
+      "event_ids": [
+        "E011",
+        "E012",
+        "E013",
+        "E014",
+        "E015",
+        "E016",
+        "E017",
+        "E018",
+        "E019",
+        "E020"
+      ],
+      "event_count": 10,
+      "page_count": 4,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B002.json"
+    },
+    {
+      "batch_id": "B003",
+      "event_ids": [
+        "E021",
+        "E022",
+        "E023",
+        "E024",
+        "E025",
+        "E026",
+        "E027",
+        "E028"
+      ],
+      "event_count": 8,
+      "page_count": 9,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B003.json"
+    },
+    {
+      "batch_id": "B004",
+      "event_ids": [
+        "E029",
+        "E030",
+        "E031"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B004.json"
+    },
+    {
+      "batch_id": "B005",
+      "event_ids": [
+        "E032",
+        "E033",
+        "E034"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B005.json"
+    },
+    {
+      "batch_id": "B006",
+      "event_ids": [
+        "E035",
+        "E036",
+        "E037"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B006.json"
+    },
+    {
+      "batch_id": "B007",
+      "event_ids": [
+        "E038",
+        "E039",
+        "E040"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B007.json"
+    },
+    {
+      "batch_id": "B008",
+      "event_ids": [
+        "E041",
+        "E042",
+        "E043"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B008.json"
+    },
+    {
+      "batch_id": "B009",
+      "event_ids": [
+        "E044",
+        "E045",
+        "E046"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B009.json"
+    },
+    {
+      "batch_id": "B010",
+      "event_ids": [
+        "E047",
+        "E048",
+        "E049"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B010.json"
+    },
+    {
+      "batch_id": "B011",
+      "event_ids": [
+        "E050",
+        "E051",
+        "E052"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B011.json"
+    },
+    {
+      "batch_id": "B012",
+      "event_ids": [
+        "E053",
+        "E054",
+        "E055"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B012.json"
+    },
+    {
+      "batch_id": "B013",
+      "event_ids": [
+        "E056",
+        "E057",
+        "E058"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B013.json"
+    },
+    {
+      "batch_id": "B014",
+      "event_ids": [
+        "E059",
+        "E060",
+        "E061"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B014.json"
+    },
+    {
+      "batch_id": "B015",
+      "event_ids": [
+        "E062",
+        "E063",
+        "E064"
+      ],
+      "event_count": 3,
+      "page_count": 4,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B015.json"
+    },
+    {
+      "batch_id": "B016",
+      "event_ids": [
+        "E065",
+        "E066",
+        "E067"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B016.json"
+    },
+    {
+      "batch_id": "B017",
+      "event_ids": [
+        "E068",
+        "E069",
+        "E070"
+      ],
+      "event_count": 3,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B017.json"
+    },
+    {
+      "batch_id": "B018",
+      "event_ids": [
+        "E071",
+        "E072",
+        "E073",
+        "E074",
+        "E075",
+        "E076"
+      ],
+      "event_count": 6,
+      "page_count": 3,
+      "batch_path": "C:\\Users\\lenovo\\Desktop\\Week4\\section_result\\06_master_package\\batches\\B018.json"
+    }
+  ]
+}
