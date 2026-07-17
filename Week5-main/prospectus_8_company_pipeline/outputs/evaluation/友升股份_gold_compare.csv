@@ -1,0 +1,2 @@
+﻿gold_path,auto_count,gold_count,matched_count,precision,recall,status
+data\gold\友升股份_gold.jsonl,10,0,0,,,gold_missing

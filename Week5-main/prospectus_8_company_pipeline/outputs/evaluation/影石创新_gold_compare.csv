@@ -1,0 +1,2 @@
+﻿gold_path,auto_count,gold_count,matched_count,precision,recall,status
+data\gold\影石创新_gold.jsonl,18,0,0,,,gold_missing
