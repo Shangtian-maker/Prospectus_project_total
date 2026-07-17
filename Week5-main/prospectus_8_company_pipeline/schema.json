@@ -1,0 +1,295 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ProspectusEquityEvolution",
+  "type": "object",
+  "required": [
+    "company",
+    "capital_increase",
+    "equity_transfer",
+    "equity_snapshot"
+  ],
+  "properties": {
+    "company": {
+      "type": "object",
+      "required": [
+        "company_id",
+        "company_name"
+      ],
+      "properties": {
+        "company_id": {
+          "type": "string"
+        },
+        "company_name": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "source_pdf": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "capital_increase": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "event_id",
+          "date",
+          "subscriber",
+          "source_page"
+        ],
+        "properties": {
+          "event_id": {
+            "type": "string"
+          },
+          "date": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "subscriber": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "subscribed_amount": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "paid_amount": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "price_per_share": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "registered_capital_before": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "registered_capital_after": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "shareholding_after": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "currency": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "approval": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "source_text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "confidence": {
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "equity_transfer": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "event_id",
+          "date",
+          "transferor",
+          "transferee",
+          "source_page"
+        ],
+        "properties": {
+          "event_id": {
+            "type": "string"
+          },
+          "date": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "transferor": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "transferee": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "equity_percent": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "shares": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "consideration": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "price_per_share": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "currency": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "approval": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "source_text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "confidence": {
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "equity_snapshot": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "snapshot_id",
+          "date",
+          "shareholder_name",
+          "source_page"
+        ],
+        "properties": {
+          "snapshot_id": {
+            "type": "string"
+          },
+          "date": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "shareholder_name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "shares": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "shareholding_percent": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "shareholder_type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "source_text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "confidence": {
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": true
+}
